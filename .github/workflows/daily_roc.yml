@@ -1,0 +1,78 @@
+name: Daily ROC Pipeline
+
+on:
+  schedule:
+    - cron: "0 12 * * *"     # ~8am ET during DST (12:00 UTC)
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'scripts/news_sentiment_roc.py'
+      - 'requirements.txt'
+      - 'roc_aliases.csv'
+      - 'roc.txt'
+      - 'roc-dashboard.html'
+      - '.github/workflows/daily_roc.yml'
+
+permissions:
+  contents: write
+
+# Keep ROC runs separate from the other pipelines
+concurrency:
+  group: daily-roc-${{ github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: '1'
+      TZ: America/New_York
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies (if requirements.txt exists)
+        if: ${{ hashFiles('requirements.txt') != '' }}
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure ROC data folders exist
+        run: mkdir -p data_roc/articles
+
+      - name: Run daily ROC sentiment
+        run: python scripts/news_sentiment_roc.py
+
+      - name: Commit & push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          if [[ -n $(git status --porcelain) ]]; then
+            git add -A
+            git commit -m "chore(data_roc): update ROC news sentiment for $(date -u +%F)"
+            git pull --rebase --autostash origin main || true
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Upload ROC data artifact (optional)
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-roc-${{ github.run_id }}
+          path: |
+            data_roc/daily_counts.csv
+            data_roc/articles/*.csv
+          if-no-files-found: ignore
