@@ -1,309 +1,4 @@
 date,brand,company,total,positive,neutral,negative,theme
-2025-09-27,Andrew Dutkanych,MILB,3,1,2,0,
-2025-09-27,Antonio Anderson,MILB,7,3,4,0,
-2025-09-27,Braden Montgomery,MILB,30,20,9,1,
-2025-09-27,Christian Little,MILB,12,7,4,1,
-2025-09-27,Christopher Suero,MILB,8,2,5,1,
-2025-09-27,CJ Abrams,MLB,39,12,19,8,
-2025-09-27,Dominic Johnson,MILB,0,0,0,0,
-2025-09-27,Dominic Smith,MLB,40,7,23,10,
-2025-09-27,Ed Howard,MILB,12,3,8,1,
-2025-09-27,Gino Groover,MILB,8,1,7,0,
-2025-09-27,Ian Lewis,MILB,9,2,6,1,
-2025-09-27,Isaiah Drake,MILB,9,4,4,1,
-2025-09-27,Isaiah Greene,MILB,9,2,6,1,
-2025-09-27,Jaden Hill,MLB,40,15,19,6,
-2025-09-27,Jamari Baylor,MLB,10,7,3,0,
-2025-09-27,Jazz Chisholm,MLB,40,16,21,3,
-2025-09-27,Jeremiah Estrada,MLB,40,10,24,6,
-2025-09-27,Jordan McCants,MILB,7,3,4,0,
-2025-09-27,Logan Allen,Baseball,40,10,26,4,
-2025-09-27,Marcus Stroman,MLB,40,5,28,7,
-2025-09-27,Mark Vientos,MLB,40,10,25,5,
-2025-09-27,Masyn Winn,MLB,40,14,18,8,
-2025-09-27,Myles Smith,MILB,8,3,5,0,
-2025-09-27,Nick Kahle,MILB,14,4,9,1,
-2025-09-27,Niko Goodrum,MLB,40,12,23,5,
-2025-09-27,Nick Gordon,MLB,40,8,29,3,
-2025-09-27,Robinson Cano,Baseball,40,17,20,3,
-2025-09-27,Termarr Johnson,MILB,34,18,13,3,
-2025-09-27,TJ McCants,MILB,6,2,2,2,
-2025-09-27,Xavier Edwards,MLB,40,12,22,6,
-2025-09-27,Zack Showalter,MILB,10,2,8,0,
-2025-09-27,Aeneas Peebles,NFL Draft Prospect,10,4,4,2,
-2025-09-27,Andrew Thomas,NFL,40,8,28,4,
-2025-09-27,Andrew Voorhees,NFL,9,2,4,3,
-2025-09-27,Azeez Ojulari,NFL,40,15,19,6,
-2025-09-27,Baron Browning,NFL,40,14,26,0,
-2025-09-27,Bradley Chubb,NFL,40,10,25,5,
-2025-09-27,Brandon Coleman,NFL,39,15,18,6,
-2025-09-27,Brandon Jones,NFL,40,23,11,6,
-2025-09-27,Carlos Boogie Basham,NFL,27,5,20,2,
-2025-09-27,Chris Paul,NFL,39,5,28,6,
-2025-09-27,CJ Henderson,NFL,40,8,28,4,
-2025-09-27,Clay Webb,NFL Draft Prospect,9,7,0,2,
-2025-09-27,Devin Duvernay,NFL,40,5,29,6,
-2025-09-27,De'Von Achane,NFL,40,12,15,13,
-2025-09-27,Drake London,NFL,40,9,16,15,
-2025-09-27,Erik Ezukanma,NFL,38,5,26,7,
-2025-09-27,Gabriel Davis,NFL,40,8,27,5,
-2025-09-27,Germaine Pratt,NFL,40,9,26,5,
-2025-09-27,Isaiah Likely,NFL,40,12,12,16,
-2025-09-27,Jaire Alexander,NFL,40,13,25,2,
-2025-09-27,Jakorian Bennett,NFL,40,5,29,6,
-2025-09-27,Jalen McMillan,NFL,40,3,14,23,
-2025-09-27,Jalyn Armour-Davis,NFL,40,10,23,7,
-2025-09-27,Jamaree Salyer,NFL,40,10,23,7,
-2025-09-27,Jamel Dean,NFL,40,9,21,10,
-2025-09-27,Jaylon Jones,NFL,40,6,23,11,
-2025-09-27,Jordyn Brooks,NFL,40,15,15,10,
-2025-09-27,Josaiah Stewart,NFL Draft Prospect,14,10,3,1,
-2025-09-27,Julian Okwara,NFL,40,4,30,6,
-2025-09-27,Kevin Winston Jr,NFL Draft Prospect,15,8,6,1,
-2025-09-27,Kyler Murray,NFL,40,15,13,12,
-2025-09-27,Le'Raven Clark,NFL,40,7,26,7,
-2025-09-27,Lewis Cine,NFL,40,7,21,12,
-2025-09-27,Louis Rees Zammit,NFL,40,11,27,2,
-2025-09-27,Luiji Vilain,NFL,40,3,32,5,
-2025-09-27,Marcus Maye,NFL,40,12,21,7,
-2025-09-27,Micheal Clemons,NFL,40,8,23,9,
-2025-09-27,Michael Pittman Jr,NFL,40,12,25,3,
-2025-09-27,Patrick Paul,NFL,40,18,18,4,
-2025-09-27,Rashod Bateman,NFL,40,13,23,4,
-2025-09-27,Ronnie Stanley,NFL,40,16,21,3,
-2025-09-27,Roschon Johnson,NFL,40,10,20,10,
-2025-09-27,Sam Ehlinger,NFL,40,13,24,3,
-2025-09-27,Savion Williams,NFL Draft Prospect,21,14,4,3,
-2025-09-27,Terence Steele,NFL,40,12,16,12,
-2025-09-27,Trent Taylor,NFL,39,3,30,6,
-2025-09-27,Tyler Higbee,NFL,40,19,16,5,
-2025-09-27,Tyler Lacy,NFL,39,5,27,7,
-2025-09-27,Tyler Shough,NFL Draft Prospect,40,19,19,2,
-2025-09-27,Tyree Wilson,NFL,40,12,25,3,
-2025-09-27,Upton Stout,NFL Draft Prospect,10,4,5,1,
-2025-09-27,Will Campbell,NFL Draft Prospect,40,24,7,9,
-2025-09-27,Za'Darius Smith,NFL,40,18,19,3,
-2025-09-27,Zamir White,NFL,40,4,26,10,
-2025-09-27,Aphelele Fassi,Rugby,40,9,16,15,
-2025-09-27,Ardie Savea,Rugby,40,17,19,4,
-2025-09-27,Cheslin Kolbe,Rugby,40,20,13,7,
-2025-09-27,Ellis Genge,Rugby,40,10,22,8,
-2025-09-27,Jordan Hendrikse,Rugby,40,15,18,7,
-2025-09-27,Luyolo Doyi,Rugby,10,7,3,0,
-2025-09-27,Marcus Smith,Rugby,40,9,23,8,
-2025-09-27,Mamus Rademeyer,Rugby,0,0,0,0,
-2025-09-27,Ollie Lawrence,Rugby,40,11,10,19,
-2025-09-27,Owam Freempong,Rugby,1,1,0,0,
-2025-09-27,Ronald Brown,Rugby,40,17,18,5,
-2025-09-27,Siya Kolisi,Rugby,40,13,20,7,
-2025-09-27,Tendai Mtawarira,Rugby,40,19,17,4,
-2025-09-27,Zukisani Tom,Rugby,6,5,1,0,
-2025-09-27,Adem Bona,NBA,40,13,25,2,
-2025-09-27,Bennie Boatwright,Basketball,40,17,19,4,
-2025-09-27,Buddy Boeheim,NBA,40,9,29,2,
-2025-09-27,Chris Boucher,NBA,40,16,22,2,
-2025-09-27,Dillon Jones,NBA,40,8,30,2,
-2025-09-27,James Young,Basketball,40,10,28,2,
-2025-09-27,Jimmy Boeheim,Basketball,40,16,22,2,
-2025-09-27,Kevin Porter Jr,NBA,40,12,25,3,
-2025-09-27,LaMelo Ball,NBA,40,10,22,8,
-2025-09-27,Quincy Guerrier,NBA,40,6,34,0,
-2025-09-27,Rickea Jackson,WNBA,39,13,24,2,
-2025-09-27,Skylar Diggins-Smith,WNBA,40,11,25,4,
-2025-09-27,Allen Griffin,Coach,36,9,26,1,
-2025-09-27,Dejan Stanković,Coach,40,13,25,2,
-2025-09-27,God Shammgod,Coach,40,23,13,4,
-2025-09-27,Hamlet Tibbs,Coach,10,6,4,0,
-2025-09-27,Hue Jackson,Coach,40,6,21,13,
-2025-09-27,Kliff Kingsbury,Coach,40,9,25,6,
-2025-09-27,Rod Strickland,Coach,40,7,26,7,
-2025-09-27,Adedire Mebude,Soccer,6,1,3,2,
-2025-09-27,Alan Kardec De Souza,Soccer,0,0,0,0,
-2025-09-27,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,
-2025-09-27,Alfie McNally,Soccer,1,0,1,0,
-2025-09-27,Andre Silva,Soccer,40,9,16,15,
-2025-09-27,Andre Clovis Silva Filho,Soccer,0,0,0,0,
-2025-09-27,Andrew brody,Soccer,36,8,26,2,
-2025-09-27,Anthony Fontana,Soccer,28,11,16,1,
-2025-09-27,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,
-2025-09-27,Arthur Augusto De Matos Soares,Soccer,1,1,0,0,
-2025-09-27,Arthur Zanell Koerich,Soccer,0,0,0,0,
-2025-09-27,Axel Uriostegui,Soccer,8,4,3,1,
-2025-09-27,Axel Witsel,Soccer,40,11,23,6,
-2025-09-27,Aziel Jackson,Soccer,33,13,19,1,
-2025-09-27,Billy Gee,Soccer,9,4,4,1,
-2025-09-27,Bradley Ibrahim,Soccer,9,3,4,2,
-2025-09-27,Brooke Norton-Cuffy,Soccer,28,11,17,0,
-2025-09-27,Ciao Leao Do Amaral,Soccer,0,0,0,0,
-2025-09-27,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,
-2025-09-27,Cauly Oliveira Souza,Soccer,1,0,0,1,
-2025-09-27,Charlie Rosenthal,Soccer,9,4,5,0,
-2025-09-27,Chadi Riad,Soccer,34,7,22,5,
-2025-09-27,Chris Richards,Soccer,40,17,20,3,
-2025-09-27,Christian Dimarco,Soccer,5,2,2,1,
-2025-09-27,Conor Lewis,Soccer,4,1,1,2,
-2025-09-27,Dakota Watterson,Soccer,9,3,6,0,
-2025-09-27,Davi Milhomens Waisman,Soccer,0,0,0,0,
-2025-09-27,David Viana De Oliveira,Soccer,0,0,0,0,
-2025-09-27,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,
-2025-09-27,Deji Elerewe,Soccer,10,6,3,1,
-2025-09-27,Diego Esser Pereira,Soccer,0,0,0,0,
-2025-09-27,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,
-2025-09-27,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,
-2025-09-27,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,
-2025-09-27,Emersonn Correia Da Silva,Soccer,0,0,0,0,
-2025-09-27,Endrick Felipe Moreira de Sousa,Soccer,17,5,10,2,
-2025-09-27,Ezra Carrington,Soccer,3,1,2,0,
-2025-09-27,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,
-2025-09-27,Federico Dimarco,Soccer,40,16,17,7,
-2025-09-27,Felipe Felicio Silva Reis,Soccer,0,0,0,0,
-2025-09-27,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,
-2025-09-27,Gabriel Correia Da Silva,Soccer,0,0,0,0,
-2025-09-27,Gabriel Teodoro Martinelli Silva,Soccer,5,3,2,0,
-2025-09-27,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,
-2025-09-27,Gustavo Henrique Correa,Soccer,0,0,0,0,
-2025-09-27,Gustavo Reis De Alcantara,Soccer,0,0,0,0,
-2025-09-27,Grayson Doody,Soccer,10,2,8,0,
-2025-09-27,Henrique De Souza Trevisan,Soccer,0,0,0,0,
-2025-09-27,Igor Toledo E Toledo,Soccer,0,0,0,0,
-2025-09-27,Isaiah Parker,Soccer,12,3,9,0,
-2025-09-27,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,
-2025-09-27,Jack Mcglynn,Soccer,40,6,27,7,
-2025-09-27,Jackson Teixeira Filho,Soccer,0,0,0,0,
-2025-09-27,Jacob Neptune,Soccer,0,0,0,0,
-2025-09-27,Jacob Wright,Soccer,35,16,16,3,
-2025-09-27,Jadan Raymond,Soccer,10,2,6,2,
-2025-09-27,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,
-2025-09-27,Jahmari Clarke,Soccer,10,3,6,1,
-2025-09-27,Jhuan Nunes Coelho,Soccer,0,0,0,0,
-2025-09-27,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,
-2025-09-27,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,
-2025-09-27,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,
-2025-09-27,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,
-2025-09-27,João Victor Vieira Ferreira Sousa,Soccer,0,0,0,0,
-2025-09-27,Joel Gasco,Soccer,0,0,0,0,
-2025-09-27,Jojea Kwizera,Soccer,12,4,6,2,
-2025-09-27,Jordi Saucedo,Soccer,0,0,0,0,
-2025-09-27,Jose Rafael Vivian,Soccer,0,0,0,0,
-2025-09-27,Josh Nichols,Soccer,27,7,18,2,
-2025-09-27,Justen Glad,Soccer,40,29,8,3,
-2025-09-27,Kaiden Wilson,Soccer,10,1,9,0,
-2025-09-27,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,
-2025-09-27,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,
-2025-09-27,Keaton Parks,Soccer,40,8,27,5,
-2025-09-27,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,
-2025-09-27,Kevin de Bruyne,Soccer,40,11,25,4,
-2025-09-27,Kevyn Henrique Monteiro De Souza,Soccer,0,0,0,0,
-2025-09-27,Korede Osundina,Soccer,11,3,8,0,
-2025-09-27,Lazaro Vinicius Marques,Soccer,5,0,5,0,
-2025-09-27,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,
-2025-09-27,Leonardo de Azevedo Silva,Soccer,0,0,0,0,
-2025-09-27,Lewis Orford,Soccer,10,5,5,0,
-2025-09-27,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,
-2025-09-27,Lorran Lucas Pereira De Sousa,Soccer,2,0,2,0,
-2025-09-27,Luan Andrey Da Silva Duarte,Soccer,1,0,1,0,
-2025-09-27,Luca Fletcher,Soccer,10,3,6,1,
-2025-09-27,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,
-2025-09-27,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,
-2025-09-27,Lucas Felipe Calegari,Soccer,2,0,2,0,
-2025-09-27,Lucas Fernandes da Silva,Soccer,0,0,0,0,
-2025-09-27,Lucas Henrique Barbosa,Soccer,5,0,5,0,
-2025-09-27,Lucas Pires Silva,Soccer,2,0,2,0,
-2025-09-27,Lucas Rosa Gazzotto,Soccer,0,0,0,0,
-2025-09-27,Lucas Tolentino Coelho De Lima,Soccer,10,4,4,2,
-2025-09-27,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,
-2025-09-27,Manuel Vila Cabezas,Soccer,0,0,0,0,
-2025-09-27,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,
-2025-09-27,Marcos Antonio Silva Santos,Soccer,0,0,0,0,
-2025-09-27,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,
-2025-09-27,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,
-2025-09-27,Mateus Da Frada Lustosa,Soccer,0,0,0,0,
-2025-09-27,Mateus Dias Lima,Soccer,0,0,0,0,
-2025-09-27,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,
-2025-09-27,Matheus Dalsasso Dias,Soccer,0,0,0,0,
-2025-09-27,Matheus Rossetto,Soccer,21,8,10,3,
-2025-09-27,Matt Miazaga,Soccer,2,0,2,0,
-2025-09-27,Matt Real,Soccer,27,5,19,3,
-2025-09-27,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,
-2025-09-27,Murilo Camargo Dos Santos,Soccer,0,0,0,0,
-2025-09-27,Murilo Cerqueira Paim,Soccer,4,1,3,0,
-2025-09-27,Nathan Ferguson,Soccer,18,7,7,4,
-2025-09-27,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,
-2025-09-27,Nathan Santos de Araújo,Soccer,1,0,1,0,
-2025-09-27,Nkosi Tafari,Soccer,30,5,25,0,
-2025-09-27,Olger Escobar,Soccer,40,7,33,0,
-2025-09-27,Òscar Masqué García,Soccer,0,0,0,0,
-2025-09-27,Oscar Torrellas,Soccer,0,0,0,0,
-2025-09-27,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,
-2025-09-27,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,
-2025-09-27,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,
-2025-09-27,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,
-2025-09-27,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,
-2025-09-27,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,
-2025-09-27,Rafael Barbosa Coutinho,Soccer,0,0,0,0,
-2025-09-27,Renato Marques de Oliveira Junior,Soccer,0,0,0,0,
-2025-09-27,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,
-2025-09-27,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,
-2025-09-27,Ruan Lucas De Assis,Soccer,0,0,0,0,
-2025-09-27,Rubens Antonio Dias,Soccer,0,0,0,0,
-2025-09-27,Ryan Medina Da Silva,Soccer,0,0,0,0,
-2025-09-27,Samuel Alves Barroso,Soccer,0,0,0,0,
-2025-09-27,Samuel Lusale,Soccer,10,9,1,0,
-2025-09-27,Seth Chingwaro,Soccer,10,4,6,0,
-2025-09-27,Theo Adelusi,Soccer,6,2,4,0,
-2025-09-27,Thierry Rohart-Brown,Soccer,5,3,2,0,
-2025-09-27,Tim Parker,Soccer,40,8,29,3,
-2025-09-27,Tucker Lepley,Soccer,27,12,12,3,
-2025-09-27,Tyreece John-Jules,Soccer,9,1,8,0,
-2025-09-27,Victor Hugo Gomes Silva,Soccer,1,1,0,0,
-2025-09-27,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,
-2025-09-27,Vinicius Jose Paixao de Oliveira Junior,Soccer,5,2,2,1,
-2025-09-27,Vonnte Williams,Soccer,1,1,0,0,
-2025-09-27,Vitor Carvalho,Soccer,10,0,9,1,
-2025-09-27,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,
-2025-09-27,Vitor Tormena de Farias,Soccer,0,0,0,0,
-2025-09-27,Weverson Moreira da Costa,Soccer,0,0,0,0,
-2025-09-27,Xavier Amaechi,Soccer,9,3,6,0,
-2025-09-27,Yann Neves Siqueira,Soccer,0,0,0,0,
-2025-09-27,Ykaro Toledo E Toledo,Soccer,0,0,0,0,
-2025-09-27,Zach Marsh,Soccer,9,3,6,0,
-2025-09-27,Adia Victoria,singer,34,9,23,2,
-2025-09-27,Alicia Keys,singer,40,15,22,3,
-2025-09-27,A$AP Ferg,ASAP Ferg,40,8,25,7,
-2025-09-27,A$AP ROCKY,ASAP ROCKY,40,20,16,4,
-2025-09-27,Benny The Butcher,rapper,40,10,28,2,
-2025-09-27,Bohnes,Alexander DeLeon,14,3,11,0,
-2025-09-27,Christina Aguilera,singer,40,12,24,4,
-2025-09-27,Corinne Bailey Rae,singer,40,5,25,10,
-2025-09-27,DJ Khaled,record producer,40,12,25,3,
-2025-09-27,Ezinma,violinist,23,10,11,2,
-2025-09-27,Fat Joe,rapper,40,8,12,20,
-2025-09-27,J Balvin,singer,40,12,24,4,
-2025-09-27,Jadakiss,rapper,40,17,17,6,
-2025-09-27,Jess Glynne,singer,40,19,17,4,
-2025-09-27,Kate Peytavin,singer,4,2,1,1,
-2025-09-27,Lil Uzi Vert,rapper,40,12,12,16,
-2025-09-27,Lous and the Yakuza,singer,28,6,20,2,
-2025-09-27,Megan Thee Stallion,rapper,40,13,14,13,
-2025-09-27,Moneybagg Yo,rapper,40,10,28,2,
-2025-09-27,DJ Mustard,record producer,18,7,8,3,
-2025-09-27,Nipsey Hussle,rapper,40,8,17,15,
-2025-09-27,Rihanna,singer,39,29,9,1,
-2025-09-27,Robin Thicke,singer,40,16,18,6,
-2025-09-27,The LOX,hip hop group,40,17,14,9,
-2025-09-27,Tinashe,singer,40,11,17,12,
-2025-09-27,Yo Gotti,rapper,40,7,16,17,
-2025-09-27,Bodega Flee,DJ,6,0,5,1,
-2025-09-27,DJ Camilo,radio personality,3,1,2,0,
-2025-09-27,Angie Martinez,radio personality,40,7,28,5,
-2025-09-27,Van Jones,media personality,16,3,8,5,
-2025-09-27,Fred Ball,record producer,4,1,2,1,
-2025-09-27,Big Sean,rapper,40,18,18,4,
-2025-09-27,DJ LYAN,music producer,7,2,4,1,
-2025-09-27,Madison Bailey,actress,40,16,20,4,
-2025-09-27,Myke Towers,rapper,40,8,28,4,
-2025-09-27,Desiree Perez,Roc Nation,40,6,12,22,
-2025-09-27,Jay-Z,rapper,40,12,11,17,
 2025-09-28,Andrew Dutkanych,MILB,4,1,3,0,
 2025-09-28,Antonio Anderson,MILB,8,3,5,0,
 2025-09-28,Braden Montgomery,MILB,30,19,10,1,
@@ -27449,308 +27144,613 @@ date,brand,company,total,positive,neutral,negative,theme
 2025-12-25,Myke Towers,rapper,40,13,23,4,
 2025-12-25,Desiree Perez,Roc Nation,40,9,17,14,
 2025-12-25,Jay-Z,rapper,40,15,15,10,
-2025-12-26,Andrew Dutkanych,MILB,4,1,3,0,None
-2025-12-26,Antonio Anderson,MILB,8,2,6,0,None
-2025-12-26,Braden Montgomery,MILB,20,13,6,1,None
-2025-12-26,Christian Little,MILB,9,5,3,1,None
-2025-12-26,Christopher Suero,MILB,7,5,2,0,None
-2025-12-26,CJ Abrams,MLB,40,12,24,4,None
-2025-12-26,Dominic Johnson,MILB,0,0,0,0,None
-2025-12-26,Dominic Smith,MLB,40,12,20,8,None
-2025-12-26,Ed Howard,MILB,7,2,4,1,None
-2025-12-26,Gino Groover,MILB,9,3,6,0,None
-2025-12-26,Ian Lewis,MILB,9,2,7,0,None
-2025-12-26,Isaiah Drake,MILB,9,4,5,0,None
-2025-12-26,Isaiah Greene,MILB,7,2,4,1,None
-2025-12-26,Jaden Hill,MLB,40,15,23,2,None
-2025-12-26,Jamari Baylor,MLB,8,4,4,0,None
-2025-12-26,Jazz Chisholm,MLB,40,18,18,4,None
-2025-12-26,Jeremiah Estrada,MLB,40,12,24,4,None
-2025-12-26,Jordan McCants,MILB,3,2,1,0,None
-2025-12-26,Logan Allen,Baseball,40,12,23,5,None
-2025-12-26,Marcus Stroman,MLB,40,6,27,7,None
-2025-12-26,Mark Vientos,MLB,40,13,24,3,None
-2025-12-26,Masyn Winn,MLB,40,12,20,8,None
-2025-12-26,Myles Smith,MILB,6,1,5,0,None
-2025-12-26,Nick Kahle,MILB,14,3,10,1,None
-2025-12-26,Niko Goodrum,MLB,40,11,24,5,None
-2025-12-26,Nick Gordon,MLB,40,10,27,3,None
-2025-12-26,Robinson Cano,Baseball,40,16,21,3,None
-2025-12-26,Termarr Johnson,MILB,14,9,5,0,None
-2025-12-26,TJ McCants,MILB,2,0,1,1,None
-2025-12-26,Xavier Edwards,MLB,40,11,25,4,None
-2025-12-26,Zack Showalter,MILB,8,3,4,1,None
-2025-12-26,Aeneas Peebles,NFL Draft Prospect,10,4,4,2,None
-2025-12-26,Andrew Thomas,NFL,40,10,19,11,None
-2025-12-26,Andrew Voorhees,NFL,11,2,4,5,None
-2025-12-26,Azeez Ojulari,NFL,40,15,19,6,None
-2025-12-26,Baron Browning,NFL,40,11,27,2,None
-2025-12-26,Bradley Chubb,NFL,40,12,23,5,None
-2025-12-26,Brandon Coleman,NFL,40,11,19,10,None
-2025-12-26,Brandon Jones,NFL,40,17,10,13,None
-2025-12-26,Carlos Boogie Basham,NFL,23,5,16,2,None
-2025-12-26,Chris Paul,NFL,40,5,27,8,None
-2025-12-26,CJ Henderson,NFL,40,4,31,5,None
-2025-12-26,Clay Webb,NFL Draft Prospect,10,8,0,2,None
-2025-12-26,Devin Duvernay,NFL,40,6,29,5,None
-2025-12-26,De'Von Achane,NFL,40,9,19,12,None
-2025-12-26,Drake London,NFL,40,9,11,20,None
-2025-12-26,Erik Ezukanma,NFL,39,5,25,9,None
-2025-12-26,Gabriel Davis,NFL,40,10,23,7,None
-2025-12-26,Germaine Pratt,NFL,40,7,30,3,None
-2025-12-26,Isaiah Likely,NFL,40,5,20,15,None
-2025-12-26,Jaire Alexander,NFL,40,8,28,4,None
-2025-12-26,Jakorian Bennett,NFL,40,7,29,4,None
-2025-12-26,Jalen McMillan,NFL,40,6,19,15,None
-2025-12-26,Jalyn Armour-Davis,NFL,40,8,24,8,None
-2025-12-26,Jamaree Salyer,NFL,40,5,27,8,None
-2025-12-26,Jamel Dean,NFL,40,9,21,10,None
-2025-12-26,Jaylon Jones,NFL,40,7,21,12,None
-2025-12-26,Jordyn Brooks,NFL,39,8,19,12,None
-2025-12-26,Josaiah Stewart,NFL Draft Prospect,12,7,3,2,None
-2025-12-26,Julian Okwara,NFL,40,4,32,4,None
-2025-12-26,Kevin Winston Jr,NFL Draft Prospect,12,6,5,1,None
-2025-12-26,Kyler Murray,NFL,40,5,25,10,None
-2025-12-26,Le'Raven Clark,NFL,40,8,23,9,None
-2025-12-26,Lewis Cine,NFL,40,7,22,11,None
-2025-12-26,Louis Rees Zammit,NFL,40,10,27,3,None
-2025-12-26,Luiji Vilain,NFL,39,6,29,4,None
-2025-12-26,Marcus Maye,NFL,40,13,18,9,None
-2025-12-26,Micheal Clemons,NFL,40,9,21,10,None
-2025-12-26,Michael Pittman Jr,NFL,40,17,16,7,None
-2025-12-26,Patrick Paul,NFL,40,14,18,8,None
-2025-12-26,Rashod Bateman,NFL,40,7,23,10,None
-2025-12-26,Ronnie Stanley,NFL,40,15,17,8,None
-2025-12-26,Roschon Johnson,NFL,40,8,17,15,None
-2025-12-26,Sam Ehlinger,NFL,40,14,20,6,None
-2025-12-26,Savion Williams,NFL Draft Prospect,17,13,3,1,None
-2025-12-26,Terence Steele,NFL,40,9,19,12,None
-2025-12-26,Trent Taylor,NFL,40,7,25,8,None
-2025-12-26,Tyler Higbee,NFL,40,6,19,15,None
-2025-12-26,Tyler Lacy,NFL,40,6,26,8,None
-2025-12-26,Tyler Shough,NFL Draft Prospect,40,20,16,4,None
-2025-12-26,Tyree Wilson,NFL,40,10,23,7,None
-2025-12-26,Upton Stout,NFL Draft Prospect,10,5,5,0,None
-2025-12-26,Will Campbell,NFL Draft Prospect,40,26,7,7,None
-2025-12-26,Za'Darius Smith,NFL,40,10,26,4,None
-2025-12-26,Zamir White,NFL,40,11,23,6,None
-2025-12-26,Aphelele Fassi,Rugby,40,12,14,14,None
-2025-12-26,Ardie Savea,Rugby,40,20,16,4,None
-2025-12-26,Cheslin Kolbe,Rugby,40,24,10,6,None
-2025-12-26,Ellis Genge,Rugby,40,5,25,10,None
-2025-12-26,Jordan Hendrikse,Rugby,40,8,26,6,None
-2025-12-26,Luyolo Doyi,Rugby,10,7,3,0,None
-2025-12-26,Marcus Smith,Rugby,40,8,22,10,None
-2025-12-26,Mamus Rademeyer,Rugby,0,0,0,0,None
-2025-12-26,Ollie Lawrence,Rugby,40,9,15,16,None
-2025-12-26,Owam Freempong,Rugby,1,1,0,0,None
-2025-12-26,Ronald Brown,Rugby,40,13,21,6,None
-2025-12-26,Siya Kolisi,Rugby,40,8,28,4,None
-2025-12-26,Tendai Mtawarira,Rugby,40,21,14,5,None
-2025-12-26,Zukisani Tom,Rugby,6,5,1,0,None
-2025-12-26,Adem Bona,NBA,40,14,23,3,None
-2025-12-26,Bennie Boatwright,Basketball,40,14,23,3,None
-2025-12-26,Buddy Boeheim,NBA,40,10,28,2,None
-2025-12-26,Chris Boucher,NBA,40,16,20,4,None
-2025-12-26,Dillon Jones,NBA,40,9,28,3,None
-2025-12-26,James Young,Basketball,40,6,33,1,None
-2025-12-26,Jimmy Boeheim,Basketball,40,16,22,2,None
-2025-12-26,Kevin Porter Jr,NBA,40,10,24,6,None
-2025-12-26,LaMelo Ball,NBA,40,12,17,11,None
-2025-12-26,Quincy Guerrier,NBA,40,6,34,0,None
-2025-12-26,Rickea Jackson,WNBA,39,17,22,0,None
-2025-12-26,Skylar Diggins-Smith,WNBA,40,12,26,2,None
-2025-12-26,Allen Griffin,Coach,38,9,25,4,None
-2025-12-26,Dejan Stanković,Coach,40,8,30,2,None
-2025-12-26,God Shammgod,Coach,40,22,15,3,None
-2025-12-26,Hamlet Tibbs,Coach,10,6,4,0,None
-2025-12-26,Hue Jackson,Coach,40,0,28,12,None
-2025-12-26,Kliff Kingsbury,Coach,40,12,20,8,None
-2025-12-26,Rod Strickland,Coach,36,7,22,7,None
-2025-12-26,Adedire Mebude,Soccer,2,0,1,1,None
-2025-12-26,Alan Kardec De Souza,Soccer,0,0,0,0,None
-2025-12-26,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,None
-2025-12-26,Alfie McNally,Soccer,2,1,1,0,None
-2025-12-26,Andre Silva,Soccer,40,10,13,17,None
-2025-12-26,Andre Clovis Silva Filho,Soccer,0,0,0,0,None
-2025-12-26,Andrew brody,Soccer,33,7,23,3,None
-2025-12-26,Anthony Fontana,Soccer,27,11,15,1,None
-2025-12-26,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,None
-2025-12-26,Arthur Augusto De Matos Soares,Soccer,1,0,1,0,None
-2025-12-26,Arthur Zanell Koerich,Soccer,0,0,0,0,None
-2025-12-26,Axel Uriostegui,Soccer,7,3,4,0,None
-2025-12-26,Axel Witsel,Soccer,40,12,22,6,None
-2025-12-26,Aziel Jackson,Soccer,32,14,18,0,None
-2025-12-26,Billy Gee,Soccer,7,4,2,1,None
-2025-12-26,Bradley Ibrahim,Soccer,8,4,3,1,None
-2025-12-26,Brooke Norton-Cuffy,Soccer,32,11,20,1,None
-2025-12-26,Ciao Leao Do Amaral,Soccer,0,0,0,0,None
-2025-12-26,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,None
-2025-12-26,Cauly Oliveira Souza,Soccer,1,0,0,1,None
-2025-12-26,Charlie Rosenthal,Soccer,9,2,7,0,None
-2025-12-26,Chadi Riad,Soccer,31,5,20,6,None
-2025-12-26,Chris Richards,Soccer,40,7,22,11,None
-2025-12-26,Christian Dimarco,Soccer,4,2,2,0,None
-2025-12-26,Conor Lewis,Soccer,1,0,1,0,None
-2025-12-26,Dakota Watterson,Soccer,10,3,7,0,None
-2025-12-26,Davi Milhomens Waisman,Soccer,0,0,0,0,None
-2025-12-26,David Viana De Oliveira,Soccer,0,0,0,0,None
-2025-12-26,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,None
-2025-12-26,Deji Elerewe,Soccer,10,5,3,2,None
-2025-12-26,Diego Esser Pereira,Soccer,0,0,0,0,None
-2025-12-26,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,None
-2025-12-26,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,None
-2025-12-26,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,None
-2025-12-26,Emersonn Correia Da Silva,Soccer,2,1,1,0,None
-2025-12-26,Endrick Felipe Moreira de Sousa,Soccer,11,4,6,1,None
-2025-12-26,Ezra Carrington,Soccer,2,0,2,0,None
-2025-12-26,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,None
-2025-12-26,Federico Dimarco,Soccer,40,10,23,7,None
-2025-12-26,Felipe Felicio Silva Reis,Soccer,0,0,0,0,None
-2025-12-26,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,None
-2025-12-26,Gabriel Correia Da Silva,Soccer,0,0,0,0,None
-2025-12-26,Gabriel Teodoro Martinelli Silva,Soccer,7,3,3,1,None
-2025-12-26,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,None
-2025-12-26,Gustavo Henrique Correa,Soccer,0,0,0,0,None
-2025-12-26,Gustavo Reis De Alcantara,Soccer,0,0,0,0,None
-2025-12-26,Grayson Doody,Soccer,10,2,8,0,None
-2025-12-26,Henrique De Souza Trevisan,Soccer,0,0,0,0,None
-2025-12-26,Igor Toledo E Toledo,Soccer,0,0,0,0,None
-2025-12-26,Isaiah Parker,Soccer,12,4,8,0,None
-2025-12-26,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,None
-2025-12-26,Jack Mcglynn,Soccer,40,5,27,8,None
-2025-12-26,Jackson Teixeira Filho,Soccer,0,0,0,0,None
-2025-12-26,Jacob Neptune,Soccer,0,0,0,0,None
-2025-12-26,Jacob Wright,Soccer,24,6,13,5,None
-2025-12-26,Jadan Raymond,Soccer,9,4,5,0,None
-2025-12-26,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,None
-2025-12-26,Jahmari Clarke,Soccer,5,2,2,1,None
-2025-12-26,Jhuan Nunes Coelho,Soccer,0,0,0,0,None
-2025-12-26,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,None
-2025-12-26,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,None
-2025-12-26,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,None
-2025-12-26,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,None
-2025-12-26,João Victor Vieira Ferreira Sousa,Soccer,0,0,0,0,None
-2025-12-26,Joel Gasco,Soccer,0,0,0,0,None
-2025-12-26,Jojea Kwizera,Soccer,39,12,22,5,None
-2025-12-26,Jordi Saucedo,Soccer,0,0,0,0,None
-2025-12-26,Jose Rafael Vivian,Soccer,0,0,0,0,None
-2025-12-26,Josh Nichols,Soccer,29,10,17,2,None
-2025-12-26,Justen Glad,Soccer,39,26,10,3,None
-2025-12-26,Kaiden Wilson,Soccer,10,2,8,0,None
-2025-12-26,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,None
-2025-12-26,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,None
-2025-12-26,Keaton Parks,Soccer,40,8,30,2,None
-2025-12-26,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,None
-2025-12-26,Kevin de Bruyne,Soccer,40,9,21,10,None
-2025-12-26,Kevyn Henrique Monteiro De Souza,Soccer,0,0,0,0,None
-2025-12-26,Korede Osundina,Soccer,8,3,5,0,None
-2025-12-26,Lazaro Vinicius Marques,Soccer,8,0,8,0,None
-2025-12-26,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,None
-2025-12-26,Leonardo de Azevedo Silva,Soccer,0,0,0,0,None
-2025-12-26,Lewis Orford,Soccer,11,6,4,1,None
-2025-12-26,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,None
-2025-12-26,Lorran Lucas Pereira De Sousa,Soccer,1,0,1,0,None
-2025-12-26,Luan Andrey Da Silva Duarte,Soccer,1,0,1,0,None
-2025-12-26,Luca Fletcher,Soccer,3,1,2,0,None
-2025-12-26,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,None
-2025-12-26,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,None
-2025-12-26,Lucas Felipe Calegari,Soccer,1,0,1,0,None
-2025-12-26,Lucas Fernandes da Silva,Soccer,0,0,0,0,None
-2025-12-26,Lucas Henrique Barbosa,Soccer,8,0,8,0,None
-2025-12-26,Lucas Pires Silva,Soccer,2,0,2,0,None
-2025-12-26,Lucas Rosa Gazzotto,Soccer,0,0,0,0,None
-2025-12-26,Lucas Tolentino Coelho De Lima,Soccer,10,2,6,2,None
-2025-12-26,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,None
-2025-12-26,Manuel Vila Cabezas,Soccer,0,0,0,0,None
-2025-12-26,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,None
-2025-12-26,Marcos Antonio Silva Santos,Soccer,0,0,0,0,None
-2025-12-26,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,None
-2025-12-26,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,None
-2025-12-26,Mateus Da Frada Lustosa,Soccer,0,0,0,0,None
-2025-12-26,Mateus Dias Lima,Soccer,0,0,0,0,None
-2025-12-26,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,None
-2025-12-26,Matheus Dalsasso Dias,Soccer,0,0,0,0,None
-2025-12-26,Matheus Rossetto,Soccer,19,8,8,3,None
-2025-12-26,Matt Miazaga,Soccer,2,0,2,0,None
-2025-12-26,Matt Real,Soccer,24,4,18,2,None
-2025-12-26,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,None
-2025-12-26,Murilo Camargo Dos Santos,Soccer,0,0,0,0,None
-2025-12-26,Murilo Cerqueira Paim,Soccer,1,1,0,0,None
-2025-12-26,Nathan Ferguson,Soccer,20,7,9,4,None
-2025-12-26,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,None
-2025-12-26,Nathan Santos de Araújo,Soccer,1,0,1,0,None
-2025-12-26,Nkosi Tafari,Soccer,36,9,26,1,None
-2025-12-26,Olger Escobar,Soccer,40,7,33,0,None
-2025-12-26,Òscar Masqué García,Soccer,0,0,0,0,None
-2025-12-26,Oscar Torrellas,Soccer,0,0,0,0,None
-2025-12-26,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,None
-2025-12-26,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,None
-2025-12-26,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,None
-2025-12-26,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,None
-2025-12-26,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,None
-2025-12-26,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,None
-2025-12-26,Rafael Barbosa Coutinho,Soccer,2,0,2,0,None
-2025-12-26,Renato Marques de Oliveira Junior,Soccer,0,0,0,0,None
-2025-12-26,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,None
-2025-12-26,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,None
-2025-12-26,Ruan Lucas De Assis,Soccer,0,0,0,0,None
-2025-12-26,Rubens Antonio Dias,Soccer,0,0,0,0,None
-2025-12-26,Ryan Medina Da Silva,Soccer,0,0,0,0,None
-2025-12-26,Samuel Alves Barroso,Soccer,0,0,0,0,None
-2025-12-26,Samuel Lusale,Soccer,10,10,0,0,None
-2025-12-26,Seth Chingwaro,Soccer,10,4,6,0,None
-2025-12-26,Theo Adelusi,Soccer,1,0,1,0,None
-2025-12-26,Thierry Rohart-Brown,Soccer,4,2,2,0,None
-2025-12-26,Tim Parker,Soccer,25,6,18,1,None
-2025-12-26,Tucker Lepley,Soccer,30,11,14,5,None
-2025-12-26,Tyreece John-Jules,Soccer,10,4,6,0,None
-2025-12-26,Victor Hugo Gomes Silva,Soccer,0,0,0,0,None
-2025-12-26,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,None
-2025-12-26,Vinicius Jose Paixao de Oliveira Junior,Soccer,14,6,4,4,None
-2025-12-26,Vonnte Williams,Soccer,0,0,0,0,None
-2025-12-26,Vitor Carvalho,Soccer,10,0,9,1,None
-2025-12-26,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,None
-2025-12-26,Vitor Tormena de Farias,Soccer,0,0,0,0,None
-2025-12-26,Weverson Moreira da Costa,Soccer,0,0,0,0,None
-2025-12-26,Xavier Amaechi,Soccer,10,3,6,1,None
-2025-12-26,Yann Neves Siqueira,Soccer,0,0,0,0,None
-2025-12-26,Ykaro Toledo E Toledo,Soccer,0,0,0,0,None
-2025-12-26,Zach Marsh,Soccer,9,2,7,0,None
-2025-12-26,Adia Victoria,singer,40,11,25,4,None
-2025-12-26,Alicia Keys,singer,40,16,22,2,None
-2025-12-26,A$AP Ferg,ASAP Ferg,40,6,30,4,None
-2025-12-26,A$AP ROCKY,ASAP ROCKY,40,16,20,4,None
-2025-12-26,Benny The Butcher,rapper,40,11,23,6,None
-2025-12-26,Bohnes,Alexander DeLeon,12,4,8,0,None
-2025-12-26,Christina Aguilera,singer,40,7,29,4,None
-2025-12-26,Corinne Bailey Rae,singer,40,7,25,8,None
-2025-12-26,DJ Khaled,record producer,40,16,20,4,None
-2025-12-26,Ezinma,violinist,19,9,9,1,None
-2025-12-26,Fat Joe,rapper,40,8,13,19,None
-2025-12-26,J Balvin,singer,40,12,24,4,None
-2025-12-26,Jadakiss,rapper,40,18,19,3,None
-2025-12-26,Jess Glynne,singer,40,13,21,6,None
-2025-12-26,Kate Peytavin,singer,2,1,0,1,None
-2025-12-26,Lil Uzi Vert,rapper,40,10,15,15,None
-2025-12-26,Lous and the Yakuza,singer,31,7,22,2,None
-2025-12-26,Megan Thee Stallion,rapper,40,10,19,11,None
-2025-12-26,Moneybagg Yo,rapper,40,13,26,1,None
-2025-12-26,DJ Mustard,record producer,17,10,5,2,None
-2025-12-26,Nipsey Hussle,rapper,40,8,17,15,None
-2025-12-26,Rihanna,singer,40,20,10,10,None
-2025-12-26,Robin Thicke,singer,40,16,16,8,None
-2025-12-26,The LOX,hip hop group,40,17,18,5,None
-2025-12-26,Tinashe,singer,40,8,24,8,None
-2025-12-26,Yo Gotti,rapper,40,8,18,14,None
-2025-12-26,Bodega Flee,DJ,3,0,3,0,None
-2025-12-26,DJ Camilo,radio personality,3,1,2,0,None
-2025-12-26,Angie Martinez,radio personality,40,7,28,5,None
-2025-12-26,Van Jones,media personality,11,2,6,3,None
-2025-12-26,Fred Ball,record producer,4,0,3,1,None
-2025-12-26,Big Sean,rapper,40,19,18,3,None
-2025-12-26,DJ LYAN,music producer,5,1,2,2,None
-2025-12-26,Madison Bailey,actress,40,15,20,5,None
-2025-12-26,Myke Towers,rapper,40,11,25,4,None
-2025-12-26,Desiree Perez,Roc Nation,40,9,17,14,None
-2025-12-26,Jay-Z,rapper,40,14,15,11,None
+2025-12-26,Andrew Dutkanych,MILB,4,1,3,0,
+2025-12-26,Antonio Anderson,MILB,8,2,6,0,
+2025-12-26,Braden Montgomery,MILB,20,13,6,1,
+2025-12-26,Christian Little,MILB,9,5,3,1,
+2025-12-26,Christopher Suero,MILB,7,5,2,0,
+2025-12-26,CJ Abrams,MLB,40,12,24,4,
+2025-12-26,Dominic Johnson,MILB,0,0,0,0,
+2025-12-26,Dominic Smith,MLB,40,12,20,8,
+2025-12-26,Ed Howard,MILB,7,2,4,1,
+2025-12-26,Gino Groover,MILB,9,3,6,0,
+2025-12-26,Ian Lewis,MILB,9,2,7,0,
+2025-12-26,Isaiah Drake,MILB,9,4,5,0,
+2025-12-26,Isaiah Greene,MILB,7,2,4,1,
+2025-12-26,Jaden Hill,MLB,40,15,23,2,
+2025-12-26,Jamari Baylor,MLB,8,4,4,0,
+2025-12-26,Jazz Chisholm,MLB,40,18,18,4,
+2025-12-26,Jeremiah Estrada,MLB,40,12,24,4,
+2025-12-26,Jordan McCants,MILB,3,2,1,0,
+2025-12-26,Logan Allen,Baseball,40,12,23,5,
+2025-12-26,Marcus Stroman,MLB,40,6,27,7,
+2025-12-26,Mark Vientos,MLB,40,13,24,3,
+2025-12-26,Masyn Winn,MLB,40,12,20,8,
+2025-12-26,Myles Smith,MILB,6,1,5,0,
+2025-12-26,Nick Kahle,MILB,14,3,10,1,
+2025-12-26,Niko Goodrum,MLB,40,11,24,5,
+2025-12-26,Nick Gordon,MLB,40,10,27,3,
+2025-12-26,Robinson Cano,Baseball,40,16,21,3,
+2025-12-26,Termarr Johnson,MILB,14,9,5,0,
+2025-12-26,TJ McCants,MILB,2,0,1,1,
+2025-12-26,Xavier Edwards,MLB,40,11,25,4,
+2025-12-26,Zack Showalter,MILB,8,3,4,1,
+2025-12-26,Aeneas Peebles,NFL Draft Prospect,10,4,4,2,
+2025-12-26,Andrew Thomas,NFL,40,10,19,11,
+2025-12-26,Andrew Voorhees,NFL,11,2,4,5,
+2025-12-26,Azeez Ojulari,NFL,40,15,19,6,
+2025-12-26,Baron Browning,NFL,40,11,27,2,
+2025-12-26,Bradley Chubb,NFL,40,12,23,5,
+2025-12-26,Brandon Coleman,NFL,40,11,19,10,
+2025-12-26,Brandon Jones,NFL,40,17,10,13,
+2025-12-26,Carlos Boogie Basham,NFL,23,5,16,2,
+2025-12-26,Chris Paul,NFL,40,5,27,8,
+2025-12-26,CJ Henderson,NFL,40,4,31,5,
+2025-12-26,Clay Webb,NFL Draft Prospect,10,8,0,2,
+2025-12-26,Devin Duvernay,NFL,40,6,29,5,
+2025-12-26,De'Von Achane,NFL,40,9,19,12,
+2025-12-26,Drake London,NFL,40,9,11,20,
+2025-12-26,Erik Ezukanma,NFL,39,5,25,9,
+2025-12-26,Gabriel Davis,NFL,40,10,23,7,
+2025-12-26,Germaine Pratt,NFL,40,7,30,3,
+2025-12-26,Isaiah Likely,NFL,40,5,20,15,
+2025-12-26,Jaire Alexander,NFL,40,8,28,4,
+2025-12-26,Jakorian Bennett,NFL,40,7,29,4,
+2025-12-26,Jalen McMillan,NFL,40,6,19,15,
+2025-12-26,Jalyn Armour-Davis,NFL,40,8,24,8,
+2025-12-26,Jamaree Salyer,NFL,40,5,27,8,
+2025-12-26,Jamel Dean,NFL,40,9,21,10,
+2025-12-26,Jaylon Jones,NFL,40,7,21,12,
+2025-12-26,Jordyn Brooks,NFL,39,8,19,12,
+2025-12-26,Josaiah Stewart,NFL Draft Prospect,12,7,3,2,
+2025-12-26,Julian Okwara,NFL,40,4,32,4,
+2025-12-26,Kevin Winston Jr,NFL Draft Prospect,12,6,5,1,
+2025-12-26,Kyler Murray,NFL,40,5,25,10,
+2025-12-26,Le'Raven Clark,NFL,40,8,23,9,
+2025-12-26,Lewis Cine,NFL,40,7,22,11,
+2025-12-26,Louis Rees Zammit,NFL,40,10,27,3,
+2025-12-26,Luiji Vilain,NFL,39,6,29,4,
+2025-12-26,Marcus Maye,NFL,40,13,18,9,
+2025-12-26,Micheal Clemons,NFL,40,9,21,10,
+2025-12-26,Michael Pittman Jr,NFL,40,17,16,7,
+2025-12-26,Patrick Paul,NFL,40,14,18,8,
+2025-12-26,Rashod Bateman,NFL,40,7,23,10,
+2025-12-26,Ronnie Stanley,NFL,40,15,17,8,
+2025-12-26,Roschon Johnson,NFL,40,8,17,15,
+2025-12-26,Sam Ehlinger,NFL,40,14,20,6,
+2025-12-26,Savion Williams,NFL Draft Prospect,17,13,3,1,
+2025-12-26,Terence Steele,NFL,40,9,19,12,
+2025-12-26,Trent Taylor,NFL,40,7,25,8,
+2025-12-26,Tyler Higbee,NFL,40,6,19,15,
+2025-12-26,Tyler Lacy,NFL,40,6,26,8,
+2025-12-26,Tyler Shough,NFL Draft Prospect,40,20,16,4,
+2025-12-26,Tyree Wilson,NFL,40,10,23,7,
+2025-12-26,Upton Stout,NFL Draft Prospect,10,5,5,0,
+2025-12-26,Will Campbell,NFL Draft Prospect,40,26,7,7,
+2025-12-26,Za'Darius Smith,NFL,40,10,26,4,
+2025-12-26,Zamir White,NFL,40,11,23,6,
+2025-12-26,Aphelele Fassi,Rugby,40,12,14,14,
+2025-12-26,Ardie Savea,Rugby,40,20,16,4,
+2025-12-26,Cheslin Kolbe,Rugby,40,24,10,6,
+2025-12-26,Ellis Genge,Rugby,40,5,25,10,
+2025-12-26,Jordan Hendrikse,Rugby,40,8,26,6,
+2025-12-26,Luyolo Doyi,Rugby,10,7,3,0,
+2025-12-26,Marcus Smith,Rugby,40,8,22,10,
+2025-12-26,Mamus Rademeyer,Rugby,0,0,0,0,
+2025-12-26,Ollie Lawrence,Rugby,40,9,15,16,
+2025-12-26,Owam Freempong,Rugby,1,1,0,0,
+2025-12-26,Ronald Brown,Rugby,40,13,21,6,
+2025-12-26,Siya Kolisi,Rugby,40,8,28,4,
+2025-12-26,Tendai Mtawarira,Rugby,40,21,14,5,
+2025-12-26,Zukisani Tom,Rugby,6,5,1,0,
+2025-12-26,Adem Bona,NBA,40,14,23,3,
+2025-12-26,Bennie Boatwright,Basketball,40,14,23,3,
+2025-12-26,Buddy Boeheim,NBA,40,10,28,2,
+2025-12-26,Chris Boucher,NBA,40,16,20,4,
+2025-12-26,Dillon Jones,NBA,40,9,28,3,
+2025-12-26,James Young,Basketball,40,6,33,1,
+2025-12-26,Jimmy Boeheim,Basketball,40,16,22,2,
+2025-12-26,Kevin Porter Jr,NBA,40,10,24,6,
+2025-12-26,LaMelo Ball,NBA,40,12,17,11,
+2025-12-26,Quincy Guerrier,NBA,40,6,34,0,
+2025-12-26,Rickea Jackson,WNBA,39,17,22,0,
+2025-12-26,Skylar Diggins-Smith,WNBA,40,12,26,2,
+2025-12-26,Allen Griffin,Coach,38,9,25,4,
+2025-12-26,Dejan Stanković,Coach,40,8,30,2,
+2025-12-26,God Shammgod,Coach,40,22,15,3,
+2025-12-26,Hamlet Tibbs,Coach,10,6,4,0,
+2025-12-26,Hue Jackson,Coach,40,0,28,12,
+2025-12-26,Kliff Kingsbury,Coach,40,12,20,8,
+2025-12-26,Rod Strickland,Coach,36,7,22,7,
+2025-12-26,Adedire Mebude,Soccer,2,0,1,1,
+2025-12-26,Alan Kardec De Souza,Soccer,0,0,0,0,
+2025-12-26,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,
+2025-12-26,Alfie McNally,Soccer,2,1,1,0,
+2025-12-26,Andre Silva,Soccer,40,10,13,17,
+2025-12-26,Andre Clovis Silva Filho,Soccer,0,0,0,0,
+2025-12-26,Andrew brody,Soccer,33,7,23,3,
+2025-12-26,Anthony Fontana,Soccer,27,11,15,1,
+2025-12-26,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,
+2025-12-26,Arthur Augusto De Matos Soares,Soccer,1,0,1,0,
+2025-12-26,Arthur Zanell Koerich,Soccer,0,0,0,0,
+2025-12-26,Axel Uriostegui,Soccer,7,3,4,0,
+2025-12-26,Axel Witsel,Soccer,40,12,22,6,
+2025-12-26,Aziel Jackson,Soccer,32,14,18,0,
+2025-12-26,Billy Gee,Soccer,7,4,2,1,
+2025-12-26,Bradley Ibrahim,Soccer,8,4,3,1,
+2025-12-26,Brooke Norton-Cuffy,Soccer,32,11,20,1,
+2025-12-26,Ciao Leao Do Amaral,Soccer,0,0,0,0,
+2025-12-26,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,
+2025-12-26,Cauly Oliveira Souza,Soccer,1,0,0,1,
+2025-12-26,Charlie Rosenthal,Soccer,9,2,7,0,
+2025-12-26,Chadi Riad,Soccer,31,5,20,6,
+2025-12-26,Chris Richards,Soccer,40,7,22,11,
+2025-12-26,Christian Dimarco,Soccer,4,2,2,0,
+2025-12-26,Conor Lewis,Soccer,1,0,1,0,
+2025-12-26,Dakota Watterson,Soccer,10,3,7,0,
+2025-12-26,Davi Milhomens Waisman,Soccer,0,0,0,0,
+2025-12-26,David Viana De Oliveira,Soccer,0,0,0,0,
+2025-12-26,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,
+2025-12-26,Deji Elerewe,Soccer,10,5,3,2,
+2025-12-26,Diego Esser Pereira,Soccer,0,0,0,0,
+2025-12-26,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,
+2025-12-26,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,
+2025-12-26,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,
+2025-12-26,Emersonn Correia Da Silva,Soccer,2,1,1,0,
+2025-12-26,Endrick Felipe Moreira de Sousa,Soccer,11,4,6,1,
+2025-12-26,Ezra Carrington,Soccer,2,0,2,0,
+2025-12-26,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,
+2025-12-26,Federico Dimarco,Soccer,40,10,23,7,
+2025-12-26,Felipe Felicio Silva Reis,Soccer,0,0,0,0,
+2025-12-26,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,
+2025-12-26,Gabriel Correia Da Silva,Soccer,0,0,0,0,
+2025-12-26,Gabriel Teodoro Martinelli Silva,Soccer,7,3,3,1,
+2025-12-26,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,
+2025-12-26,Gustavo Henrique Correa,Soccer,0,0,0,0,
+2025-12-26,Gustavo Reis De Alcantara,Soccer,0,0,0,0,
+2025-12-26,Grayson Doody,Soccer,10,2,8,0,
+2025-12-26,Henrique De Souza Trevisan,Soccer,0,0,0,0,
+2025-12-26,Igor Toledo E Toledo,Soccer,0,0,0,0,
+2025-12-26,Isaiah Parker,Soccer,12,4,8,0,
+2025-12-26,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,
+2025-12-26,Jack Mcglynn,Soccer,40,5,27,8,
+2025-12-26,Jackson Teixeira Filho,Soccer,0,0,0,0,
+2025-12-26,Jacob Neptune,Soccer,0,0,0,0,
+2025-12-26,Jacob Wright,Soccer,24,6,13,5,
+2025-12-26,Jadan Raymond,Soccer,9,4,5,0,
+2025-12-26,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,
+2025-12-26,Jahmari Clarke,Soccer,5,2,2,1,
+2025-12-26,Jhuan Nunes Coelho,Soccer,0,0,0,0,
+2025-12-26,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,
+2025-12-26,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,
+2025-12-26,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,
+2025-12-26,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,
+2025-12-26,João Victor Vieira Ferreira Sousa,Soccer,0,0,0,0,
+2025-12-26,Joel Gasco,Soccer,0,0,0,0,
+2025-12-26,Jojea Kwizera,Soccer,39,12,22,5,
+2025-12-26,Jordi Saucedo,Soccer,0,0,0,0,
+2025-12-26,Jose Rafael Vivian,Soccer,0,0,0,0,
+2025-12-26,Josh Nichols,Soccer,29,10,17,2,
+2025-12-26,Justen Glad,Soccer,39,26,10,3,
+2025-12-26,Kaiden Wilson,Soccer,10,2,8,0,
+2025-12-26,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,
+2025-12-26,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,
+2025-12-26,Keaton Parks,Soccer,40,8,30,2,
+2025-12-26,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,
+2025-12-26,Kevin de Bruyne,Soccer,40,9,21,10,
+2025-12-26,Kevyn Henrique Monteiro De Souza,Soccer,0,0,0,0,
+2025-12-26,Korede Osundina,Soccer,8,3,5,0,
+2025-12-26,Lazaro Vinicius Marques,Soccer,8,0,8,0,
+2025-12-26,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,
+2025-12-26,Leonardo de Azevedo Silva,Soccer,0,0,0,0,
+2025-12-26,Lewis Orford,Soccer,11,6,4,1,
+2025-12-26,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,
+2025-12-26,Lorran Lucas Pereira De Sousa,Soccer,1,0,1,0,
+2025-12-26,Luan Andrey Da Silva Duarte,Soccer,1,0,1,0,
+2025-12-26,Luca Fletcher,Soccer,3,1,2,0,
+2025-12-26,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,
+2025-12-26,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,
+2025-12-26,Lucas Felipe Calegari,Soccer,1,0,1,0,
+2025-12-26,Lucas Fernandes da Silva,Soccer,0,0,0,0,
+2025-12-26,Lucas Henrique Barbosa,Soccer,8,0,8,0,
+2025-12-26,Lucas Pires Silva,Soccer,2,0,2,0,
+2025-12-26,Lucas Rosa Gazzotto,Soccer,0,0,0,0,
+2025-12-26,Lucas Tolentino Coelho De Lima,Soccer,10,2,6,2,
+2025-12-26,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,
+2025-12-26,Manuel Vila Cabezas,Soccer,0,0,0,0,
+2025-12-26,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,
+2025-12-26,Marcos Antonio Silva Santos,Soccer,0,0,0,0,
+2025-12-26,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,
+2025-12-26,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,
+2025-12-26,Mateus Da Frada Lustosa,Soccer,0,0,0,0,
+2025-12-26,Mateus Dias Lima,Soccer,0,0,0,0,
+2025-12-26,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,
+2025-12-26,Matheus Dalsasso Dias,Soccer,0,0,0,0,
+2025-12-26,Matheus Rossetto,Soccer,19,8,8,3,
+2025-12-26,Matt Miazaga,Soccer,2,0,2,0,
+2025-12-26,Matt Real,Soccer,24,4,18,2,
+2025-12-26,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,
+2025-12-26,Murilo Camargo Dos Santos,Soccer,0,0,0,0,
+2025-12-26,Murilo Cerqueira Paim,Soccer,1,1,0,0,
+2025-12-26,Nathan Ferguson,Soccer,20,7,9,4,
+2025-12-26,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,
+2025-12-26,Nathan Santos de Araújo,Soccer,1,0,1,0,
+2025-12-26,Nkosi Tafari,Soccer,36,9,26,1,
+2025-12-26,Olger Escobar,Soccer,40,7,33,0,
+2025-12-26,Òscar Masqué García,Soccer,0,0,0,0,
+2025-12-26,Oscar Torrellas,Soccer,0,0,0,0,
+2025-12-26,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,
+2025-12-26,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,
+2025-12-26,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,
+2025-12-26,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,
+2025-12-26,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,
+2025-12-26,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,
+2025-12-26,Rafael Barbosa Coutinho,Soccer,2,0,2,0,
+2025-12-26,Renato Marques de Oliveira Junior,Soccer,0,0,0,0,
+2025-12-26,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,
+2025-12-26,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,
+2025-12-26,Ruan Lucas De Assis,Soccer,0,0,0,0,
+2025-12-26,Rubens Antonio Dias,Soccer,0,0,0,0,
+2025-12-26,Ryan Medina Da Silva,Soccer,0,0,0,0,
+2025-12-26,Samuel Alves Barroso,Soccer,0,0,0,0,
+2025-12-26,Samuel Lusale,Soccer,10,10,0,0,
+2025-12-26,Seth Chingwaro,Soccer,10,4,6,0,
+2025-12-26,Theo Adelusi,Soccer,1,0,1,0,
+2025-12-26,Thierry Rohart-Brown,Soccer,4,2,2,0,
+2025-12-26,Tim Parker,Soccer,25,6,18,1,
+2025-12-26,Tucker Lepley,Soccer,30,11,14,5,
+2025-12-26,Tyreece John-Jules,Soccer,10,4,6,0,
+2025-12-26,Victor Hugo Gomes Silva,Soccer,0,0,0,0,
+2025-12-26,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,
+2025-12-26,Vinicius Jose Paixao de Oliveira Junior,Soccer,14,6,4,4,
+2025-12-26,Vonnte Williams,Soccer,0,0,0,0,
+2025-12-26,Vitor Carvalho,Soccer,10,0,9,1,
+2025-12-26,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,
+2025-12-26,Vitor Tormena de Farias,Soccer,0,0,0,0,
+2025-12-26,Weverson Moreira da Costa,Soccer,0,0,0,0,
+2025-12-26,Xavier Amaechi,Soccer,10,3,6,1,
+2025-12-26,Yann Neves Siqueira,Soccer,0,0,0,0,
+2025-12-26,Ykaro Toledo E Toledo,Soccer,0,0,0,0,
+2025-12-26,Zach Marsh,Soccer,9,2,7,0,
+2025-12-26,Adia Victoria,singer,40,11,25,4,
+2025-12-26,Alicia Keys,singer,40,16,22,2,
+2025-12-26,A$AP Ferg,ASAP Ferg,40,6,30,4,
+2025-12-26,A$AP ROCKY,ASAP ROCKY,40,16,20,4,
+2025-12-26,Benny The Butcher,rapper,40,11,23,6,
+2025-12-26,Bohnes,Alexander DeLeon,12,4,8,0,
+2025-12-26,Christina Aguilera,singer,40,7,29,4,
+2025-12-26,Corinne Bailey Rae,singer,40,7,25,8,
+2025-12-26,DJ Khaled,record producer,40,16,20,4,
+2025-12-26,Ezinma,violinist,19,9,9,1,
+2025-12-26,Fat Joe,rapper,40,8,13,19,
+2025-12-26,J Balvin,singer,40,12,24,4,
+2025-12-26,Jadakiss,rapper,40,18,19,3,
+2025-12-26,Jess Glynne,singer,40,13,21,6,
+2025-12-26,Kate Peytavin,singer,2,1,0,1,
+2025-12-26,Lil Uzi Vert,rapper,40,10,15,15,
+2025-12-26,Lous and the Yakuza,singer,31,7,22,2,
+2025-12-26,Megan Thee Stallion,rapper,40,10,19,11,
+2025-12-26,Moneybagg Yo,rapper,40,13,26,1,
+2025-12-26,DJ Mustard,record producer,17,10,5,2,
+2025-12-26,Nipsey Hussle,rapper,40,8,17,15,
+2025-12-26,Rihanna,singer,40,20,10,10,
+2025-12-26,Robin Thicke,singer,40,16,16,8,
+2025-12-26,The LOX,hip hop group,40,17,18,5,
+2025-12-26,Tinashe,singer,40,8,24,8,
+2025-12-26,Yo Gotti,rapper,40,8,18,14,
+2025-12-26,Bodega Flee,DJ,3,0,3,0,
+2025-12-26,DJ Camilo,radio personality,3,1,2,0,
+2025-12-26,Angie Martinez,radio personality,40,7,28,5,
+2025-12-26,Van Jones,media personality,11,2,6,3,
+2025-12-26,Fred Ball,record producer,4,0,3,1,
+2025-12-26,Big Sean,rapper,40,19,18,3,
+2025-12-26,DJ LYAN,music producer,5,1,2,2,
+2025-12-26,Madison Bailey,actress,40,15,20,5,
+2025-12-26,Myke Towers,rapper,40,11,25,4,
+2025-12-26,Desiree Perez,Roc Nation,40,9,17,14,
+2025-12-26,Jay-Z,rapper,40,14,15,11,
+2025-12-27,Andrew Dutkanych,MILB,4,1,3,0,None
+2025-12-27,Antonio Anderson,MILB,7,2,5,0,None
+2025-12-27,Braden Montgomery,MILB,21,15,5,1,None
+2025-12-27,Christian Little,MILB,8,5,2,1,None
+2025-12-27,Christopher Suero,MILB,7,5,2,0,None
+2025-12-27,CJ Abrams,MLB,40,12,25,3,None
+2025-12-27,Dominic Johnson,MILB,0,0,0,0,None
+2025-12-27,Dominic Smith,MLB,39,10,20,9,None
+2025-12-27,Ed Howard,MILB,9,2,6,1,None
+2025-12-27,Gino Groover,MILB,9,2,7,0,None
+2025-12-27,Ian Lewis,MILB,9,2,7,0,None
+2025-12-27,Isaiah Drake,MILB,9,4,5,0,None
+2025-12-27,Isaiah Greene,MILB,7,2,4,1,None
+2025-12-27,Jaden Hill,MLB,40,15,23,2,None
+2025-12-27,Jamari Baylor,MLB,9,4,5,0,None
+2025-12-27,Jazz Chisholm,MLB,40,18,17,5,None
+2025-12-27,Jeremiah Estrada,MLB,40,13,23,4,None
+2025-12-27,Jordan McCants,MILB,1,0,1,0,None
+2025-12-27,Logan Allen,Baseball,40,13,22,5,None
+2025-12-27,Marcus Stroman,MLB,40,6,28,6,None
+2025-12-27,Mark Vientos,MLB,40,13,24,3,None
+2025-12-27,Masyn Winn,MLB,40,13,20,7,None
+2025-12-27,Myles Smith,MILB,6,1,5,0,None
+2025-12-27,Nick Kahle,MILB,12,4,7,1,None
+2025-12-27,Niko Goodrum,MLB,40,10,25,5,None
+2025-12-27,Nick Gordon,MLB,40,10,27,3,None
+2025-12-27,Robinson Cano,Baseball,40,17,20,3,None
+2025-12-27,Termarr Johnson,MILB,16,11,5,0,None
+2025-12-27,TJ McCants,MILB,4,0,2,2,None
+2025-12-27,Xavier Edwards,MLB,40,11,25,4,None
+2025-12-27,Zack Showalter,MILB,9,4,4,1,None
+2025-12-27,Aeneas Peebles,NFL Draft Prospect,9,4,3,2,None
+2025-12-27,Andrew Thomas,NFL,40,10,19,11,None
+2025-12-27,Andrew Voorhees,NFL,11,3,4,4,None
+2025-12-27,Azeez Ojulari,NFL,40,14,19,7,None
+2025-12-27,Baron Browning,NFL,40,11,27,2,None
+2025-12-27,Bradley Chubb,NFL,40,14,21,5,None
+2025-12-27,Brandon Coleman,NFL,40,11,19,10,None
+2025-12-27,Brandon Jones,NFL,40,16,10,14,None
+2025-12-27,Carlos Boogie Basham,NFL,25,6,17,2,None
+2025-12-27,Chris Paul,NFL,40,5,27,8,None
+2025-12-27,CJ Henderson,NFL,40,3,32,5,None
+2025-12-27,Clay Webb,NFL Draft Prospect,9,7,1,1,None
+2025-12-27,Devin Duvernay,NFL,40,5,30,5,None
+2025-12-27,De'Von Achane,NFL,40,9,20,11,None
+2025-12-27,Drake London,NFL,40,10,10,20,None
+2025-12-27,Erik Ezukanma,NFL,39,5,25,9,None
+2025-12-27,Gabriel Davis,NFL,40,10,23,7,None
+2025-12-27,Germaine Pratt,NFL,40,7,31,2,None
+2025-12-27,Isaiah Likely,NFL,40,5,19,16,None
+2025-12-27,Jaire Alexander,NFL,40,7,29,4,None
+2025-12-27,Jakorian Bennett,NFL,40,7,29,4,None
+2025-12-27,Jalen McMillan,NFL,40,7,18,15,None
+2025-12-27,Jalyn Armour-Davis,NFL,40,8,24,8,None
+2025-12-27,Jamaree Salyer,NFL,40,6,26,8,None
+2025-12-27,Jamel Dean,NFL,40,9,21,10,None
+2025-12-27,Jaylon Jones,NFL,40,7,22,11,None
+2025-12-27,Jordyn Brooks,NFL,39,7,20,12,None
+2025-12-27,Josaiah Stewart,NFL Draft Prospect,12,8,3,1,None
+2025-12-27,Julian Okwara,NFL,40,4,32,4,None
+2025-12-27,Kevin Winston Jr,NFL Draft Prospect,12,6,5,1,None
+2025-12-27,Kyler Murray,NFL,40,6,25,9,None
+2025-12-27,Le'Raven Clark,NFL,40,8,25,7,None
+2025-12-27,Lewis Cine,NFL,40,7,23,10,None
+2025-12-27,Louis Rees Zammit,NFL,40,10,27,3,None
+2025-12-27,Luiji Vilain,NFL,38,6,28,4,None
+2025-12-27,Marcus Maye,NFL,40,11,19,10,None
+2025-12-27,Micheal Clemons,NFL,40,9,21,10,None
+2025-12-27,Michael Pittman Jr,NFL,40,17,17,6,None
+2025-12-27,Patrick Paul,NFL,40,14,18,8,None
+2025-12-27,Rashod Bateman,NFL,40,7,23,10,None
+2025-12-27,Ronnie Stanley,NFL,40,12,17,11,None
+2025-12-27,Roschon Johnson,NFL,40,8,17,15,None
+2025-12-27,Sam Ehlinger,NFL,40,14,20,6,None
+2025-12-27,Savion Williams,NFL Draft Prospect,17,14,3,0,None
+2025-12-27,Terence Steele,NFL,40,9,20,11,None
+2025-12-27,Trent Taylor,NFL,40,7,25,8,None
+2025-12-27,Tyler Higbee,NFL,40,8,18,14,None
+2025-12-27,Tyler Lacy,NFL,40,6,25,9,None
+2025-12-27,Tyler Shough,NFL Draft Prospect,40,19,17,4,None
+2025-12-27,Tyree Wilson,NFL,40,10,23,7,None
+2025-12-27,Upton Stout,NFL Draft Prospect,10,5,5,0,None
+2025-12-27,Will Campbell,NFL Draft Prospect,40,26,6,8,None
+2025-12-27,Za'Darius Smith,NFL,40,12,25,3,None
+2025-12-27,Zamir White,NFL,40,11,23,6,None
+2025-12-27,Aphelele Fassi,Rugby,40,10,15,15,None
+2025-12-27,Ardie Savea,Rugby,40,18,17,5,None
+2025-12-27,Cheslin Kolbe,Rugby,40,23,11,6,None
+2025-12-27,Ellis Genge,Rugby,40,5,25,10,None
+2025-12-27,Jordan Hendrikse,Rugby,40,8,26,6,None
+2025-12-27,Luyolo Doyi,Rugby,10,7,3,0,None
+2025-12-27,Marcus Smith,Rugby,40,8,24,8,None
+2025-12-27,Mamus Rademeyer,Rugby,0,0,0,0,None
+2025-12-27,Ollie Lawrence,Rugby,40,10,14,16,None
+2025-12-27,Owam Freempong,Rugby,1,1,0,0,None
+2025-12-27,Ronald Brown,Rugby,40,13,20,7,None
+2025-12-27,Siya Kolisi,Rugby,40,9,26,5,None
+2025-12-27,Tendai Mtawarira,Rugby,40,20,15,5,None
+2025-12-27,Zukisani Tom,Rugby,5,4,1,0,None
+2025-12-27,Adem Bona,NBA,40,14,24,2,None
+2025-12-27,Bennie Boatwright,Basketball,40,14,23,3,None
+2025-12-27,Buddy Boeheim,NBA,40,12,26,2,None
+2025-12-27,Chris Boucher,NBA,40,16,20,4,None
+2025-12-27,Dillon Jones,NBA,40,9,28,3,None
+2025-12-27,James Young,Basketball,40,6,33,1,None
+2025-12-27,Jimmy Boeheim,Basketball,40,16,22,2,None
+2025-12-27,Kevin Porter Jr,NBA,40,9,25,6,None
+2025-12-27,LaMelo Ball,NBA,40,11,18,11,None
+2025-12-27,Quincy Guerrier,NBA,40,6,34,0,None
+2025-12-27,Rickea Jackson,WNBA,39,17,22,0,None
+2025-12-27,Skylar Diggins-Smith,WNBA,40,10,28,2,None
+2025-12-27,Allen Griffin,Coach,38,9,25,4,None
+2025-12-27,Dejan Stanković,Coach,40,6,30,4,None
+2025-12-27,God Shammgod,Coach,40,22,15,3,None
+2025-12-27,Hamlet Tibbs,Coach,10,6,4,0,None
+2025-12-27,Hue Jackson,Coach,40,0,29,11,None
+2025-12-27,Kliff Kingsbury,Coach,40,11,21,8,None
+2025-12-27,Rod Strickland,Coach,38,7,24,7,None
+2025-12-27,Adedire Mebude,Soccer,2,0,1,1,None
+2025-12-27,Alan Kardec De Souza,Soccer,0,0,0,0,None
+2025-12-27,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,None
+2025-12-27,Alfie McNally,Soccer,2,1,1,0,None
+2025-12-27,Andre Silva,Soccer,40,10,12,18,None
+2025-12-27,Andre Clovis Silva Filho,Soccer,0,0,0,0,None
+2025-12-27,Andrew brody,Soccer,33,7,23,3,None
+2025-12-27,Anthony Fontana,Soccer,28,11,16,1,None
+2025-12-27,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,None
+2025-12-27,Arthur Augusto De Matos Soares,Soccer,1,0,1,0,None
+2025-12-27,Arthur Zanell Koerich,Soccer,0,0,0,0,None
+2025-12-27,Axel Uriostegui,Soccer,7,3,4,0,None
+2025-12-27,Axel Witsel,Soccer,40,11,23,6,None
+2025-12-27,Aziel Jackson,Soccer,32,15,17,0,None
+2025-12-27,Billy Gee,Soccer,7,4,2,1,None
+2025-12-27,Bradley Ibrahim,Soccer,9,5,3,1,None
+2025-12-27,Brooke Norton-Cuffy,Soccer,32,11,20,1,None
+2025-12-27,Ciao Leao Do Amaral,Soccer,0,0,0,0,None
+2025-12-27,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,None
+2025-12-27,Cauly Oliveira Souza,Soccer,1,0,0,1,None
+2025-12-27,Charlie Rosenthal,Soccer,9,2,7,0,None
+2025-12-27,Chadi Riad,Soccer,38,9,23,6,None
+2025-12-27,Chris Richards,Soccer,40,8,20,12,None
+2025-12-27,Christian Dimarco,Soccer,4,2,2,0,None
+2025-12-27,Conor Lewis,Soccer,1,0,1,0,None
+2025-12-27,Dakota Watterson,Soccer,10,3,7,0,None
+2025-12-27,Davi Milhomens Waisman,Soccer,0,0,0,0,None
+2025-12-27,David Viana De Oliveira,Soccer,0,0,0,0,None
+2025-12-27,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,None
+2025-12-27,Deji Elerewe,Soccer,10,5,3,2,None
+2025-12-27,Diego Esser Pereira,Soccer,0,0,0,0,None
+2025-12-27,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,None
+2025-12-27,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,None
+2025-12-27,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,None
+2025-12-27,Emersonn Correia Da Silva,Soccer,2,1,1,0,None
+2025-12-27,Endrick Felipe Moreira de Sousa,Soccer,15,5,9,1,None
+2025-12-27,Ezra Carrington,Soccer,2,0,2,0,None
+2025-12-27,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,None
+2025-12-27,Federico Dimarco,Soccer,40,10,23,7,None
+2025-12-27,Felipe Felicio Silva Reis,Soccer,0,0,0,0,None
+2025-12-27,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,None
+2025-12-27,Gabriel Correia Da Silva,Soccer,0,0,0,0,None
+2025-12-27,Gabriel Teodoro Martinelli Silva,Soccer,7,2,3,2,None
+2025-12-27,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,None
+2025-12-27,Gustavo Henrique Correa,Soccer,0,0,0,0,None
+2025-12-27,Gustavo Reis De Alcantara,Soccer,0,0,0,0,None
+2025-12-27,Grayson Doody,Soccer,10,2,8,0,None
+2025-12-27,Henrique De Souza Trevisan,Soccer,0,0,0,0,None
+2025-12-27,Igor Toledo E Toledo,Soccer,0,0,0,0,None
+2025-12-27,Isaiah Parker,Soccer,12,4,8,0,None
+2025-12-27,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,None
+2025-12-27,Jack Mcglynn,Soccer,40,5,27,8,None
+2025-12-27,Jackson Teixeira Filho,Soccer,0,0,0,0,None
+2025-12-27,Jacob Neptune,Soccer,0,0,0,0,None
+2025-12-27,Jacob Wright,Soccer,24,5,14,5,None
+2025-12-27,Jadan Raymond,Soccer,9,4,5,0,None
+2025-12-27,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,None
+2025-12-27,Jahmari Clarke,Soccer,5,2,2,1,None
+2025-12-27,Jhuan Nunes Coelho,Soccer,0,0,0,0,None
+2025-12-27,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,None
+2025-12-27,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,None
+2025-12-27,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,None
+2025-12-27,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,None
+2025-12-27,João Victor Vieira Ferreira Sousa,Soccer,0,0,0,0,None
+2025-12-27,Joel Gasco,Soccer,0,0,0,0,None
+2025-12-27,Jojea Kwizera,Soccer,39,11,23,5,None
+2025-12-27,Jordi Saucedo,Soccer,0,0,0,0,None
+2025-12-27,Jose Rafael Vivian,Soccer,0,0,0,0,None
+2025-12-27,Josh Nichols,Soccer,30,10,18,2,None
+2025-12-27,Justen Glad,Soccer,39,26,10,3,None
+2025-12-27,Kaiden Wilson,Soccer,9,2,7,0,None
+2025-12-27,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,None
+2025-12-27,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,None
+2025-12-27,Keaton Parks,Soccer,40,6,31,3,None
+2025-12-27,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,None
+2025-12-27,Kevin de Bruyne,Soccer,40,9,21,10,None
+2025-12-27,Kevyn Henrique Monteiro De Souza,Soccer,0,0,0,0,None
+2025-12-27,Korede Osundina,Soccer,8,3,5,0,None
+2025-12-27,Lazaro Vinicius Marques,Soccer,6,0,6,0,None
+2025-12-27,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,None
+2025-12-27,Leonardo de Azevedo Silva,Soccer,0,0,0,0,None
+2025-12-27,Lewis Orford,Soccer,11,5,5,1,None
+2025-12-27,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,None
+2025-12-27,Lorran Lucas Pereira De Sousa,Soccer,1,0,1,0,None
+2025-12-27,Luan Andrey Da Silva Duarte,Soccer,1,0,1,0,None
+2025-12-27,Luca Fletcher,Soccer,3,1,2,0,None
+2025-12-27,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,None
+2025-12-27,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,None
+2025-12-27,Lucas Felipe Calegari,Soccer,1,0,1,0,None
+2025-12-27,Lucas Fernandes da Silva,Soccer,0,0,0,0,None
+2025-12-27,Lucas Henrique Barbosa,Soccer,7,0,7,0,None
+2025-12-27,Lucas Pires Silva,Soccer,2,0,2,0,None
+2025-12-27,Lucas Rosa Gazzotto,Soccer,0,0,0,0,None
+2025-12-27,Lucas Tolentino Coelho De Lima,Soccer,10,2,6,2,None
+2025-12-27,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,None
+2025-12-27,Manuel Vila Cabezas,Soccer,0,0,0,0,None
+2025-12-27,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,None
+2025-12-27,Marcos Antonio Silva Santos,Soccer,0,0,0,0,None
+2025-12-27,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,None
+2025-12-27,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,None
+2025-12-27,Mateus Da Frada Lustosa,Soccer,0,0,0,0,None
+2025-12-27,Mateus Dias Lima,Soccer,0,0,0,0,None
+2025-12-27,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,None
+2025-12-27,Matheus Dalsasso Dias,Soccer,0,0,0,0,None
+2025-12-27,Matheus Rossetto,Soccer,19,7,8,4,None
+2025-12-27,Matt Miazaga,Soccer,2,0,2,0,None
+2025-12-27,Matt Real,Soccer,25,3,20,2,None
+2025-12-27,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,None
+2025-12-27,Murilo Camargo Dos Santos,Soccer,0,0,0,0,None
+2025-12-27,Murilo Cerqueira Paim,Soccer,1,1,0,0,None
+2025-12-27,Nathan Ferguson,Soccer,20,7,9,4,None
+2025-12-27,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,None
+2025-12-27,Nathan Santos de Araújo,Soccer,1,0,1,0,None
+2025-12-27,Nkosi Tafari,Soccer,40,8,29,3,None
+2025-12-27,Olger Escobar,Soccer,40,6,34,0,None
+2025-12-27,Òscar Masqué García,Soccer,0,0,0,0,None
+2025-12-27,Oscar Torrellas,Soccer,0,0,0,0,None
+2025-12-27,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,None
+2025-12-27,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,None
+2025-12-27,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,None
+2025-12-27,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,None
+2025-12-27,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,None
+2025-12-27,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,None
+2025-12-27,Rafael Barbosa Coutinho,Soccer,2,0,2,0,None
+2025-12-27,Renato Marques de Oliveira Junior,Soccer,0,0,0,0,None
+2025-12-27,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,None
+2025-12-27,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,None
+2025-12-27,Ruan Lucas De Assis,Soccer,0,0,0,0,None
+2025-12-27,Rubens Antonio Dias,Soccer,0,0,0,0,None
+2025-12-27,Ryan Medina Da Silva,Soccer,0,0,0,0,None
+2025-12-27,Samuel Alves Barroso,Soccer,0,0,0,0,None
+2025-12-27,Samuel Lusale,Soccer,10,10,0,0,None
+2025-12-27,Seth Chingwaro,Soccer,9,3,6,0,None
+2025-12-27,Theo Adelusi,Soccer,2,0,2,0,None
+2025-12-27,Thierry Rohart-Brown,Soccer,4,2,2,0,None
+2025-12-27,Tim Parker,Soccer,26,7,18,1,None
+2025-12-27,Tucker Lepley,Soccer,30,12,13,5,None
+2025-12-27,Tyreece John-Jules,Soccer,10,4,6,0,None
+2025-12-27,Victor Hugo Gomes Silva,Soccer,0,0,0,0,None
+2025-12-27,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,None
+2025-12-27,Vinicius Jose Paixao de Oliveira Junior,Soccer,12,4,4,4,None
+2025-12-27,Vonnte Williams,Soccer,0,0,0,0,None
+2025-12-27,Vitor Carvalho,Soccer,10,0,9,1,None
+2025-12-27,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,None
+2025-12-27,Vitor Tormena de Farias,Soccer,0,0,0,0,None
+2025-12-27,Weverson Moreira da Costa,Soccer,0,0,0,0,None
+2025-12-27,Xavier Amaechi,Soccer,10,3,6,1,None
+2025-12-27,Yann Neves Siqueira,Soccer,0,0,0,0,None
+2025-12-27,Ykaro Toledo E Toledo,Soccer,0,0,0,0,None
+2025-12-27,Zach Marsh,Soccer,9,2,7,0,None
+2025-12-27,Adia Victoria,singer,40,9,26,5,None
+2025-12-27,Alicia Keys,singer,40,17,21,2,None
+2025-12-27,A$AP Ferg,ASAP Ferg,40,7,28,5,None
+2025-12-27,A$AP ROCKY,ASAP ROCKY,40,16,19,5,None
+2025-12-27,Benny The Butcher,rapper,40,14,22,4,None
+2025-12-27,Bohnes,Alexander DeLeon,13,5,8,0,None
+2025-12-27,Christina Aguilera,singer,40,8,29,3,None
+2025-12-27,Corinne Bailey Rae,singer,40,7,25,8,None
+2025-12-27,DJ Khaled,record producer,40,16,20,4,None
+2025-12-27,Ezinma,violinist,21,10,10,1,None
+2025-12-27,Fat Joe,rapper,40,8,12,20,None
+2025-12-27,J Balvin,singer,40,11,25,4,None
+2025-12-27,Jadakiss,rapper,40,18,19,3,None
+2025-12-27,Jess Glynne,singer,40,13,21,6,None
+2025-12-27,Kate Peytavin,singer,2,1,0,1,None
+2025-12-27,Lil Uzi Vert,rapper,40,11,15,14,None
+2025-12-27,Lous and the Yakuza,singer,31,7,22,2,None
+2025-12-27,Megan Thee Stallion,rapper,40,11,18,11,None
+2025-12-27,Moneybagg Yo,rapper,40,14,24,2,None
+2025-12-27,DJ Mustard,record producer,16,10,4,2,None
+2025-12-27,Nipsey Hussle,rapper,40,6,18,16,None
+2025-12-27,Rihanna,singer,40,20,12,8,None
+2025-12-27,Robin Thicke,singer,40,15,19,6,None
+2025-12-27,The LOX,hip hop group,40,17,18,5,None
+2025-12-27,Tinashe,singer,40,7,23,10,None
+2025-12-27,Yo Gotti,rapper,40,8,19,13,None
+2025-12-27,Bodega Flee,DJ,4,0,4,0,None
+2025-12-27,DJ Camilo,radio personality,3,1,2,0,None
+2025-12-27,Angie Martinez,radio personality,40,7,29,4,None
+2025-12-27,Van Jones,media personality,11,3,6,2,None
+2025-12-27,Fred Ball,record producer,3,0,3,0,None
+2025-12-27,Big Sean,rapper,40,17,19,4,None
+2025-12-27,DJ LYAN,music producer,5,1,2,2,None
+2025-12-27,Madison Bailey,actress,40,14,21,5,None
+2025-12-27,Myke Towers,rapper,40,11,25,4,None
+2025-12-27,Desiree Perez,Roc Nation,40,8,17,15,None
+2025-12-27,Jay-Z,rapper,40,15,14,11,None
