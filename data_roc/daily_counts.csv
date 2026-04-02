@@ -1,309 +1,4 @@
 date,brand,company,total,positive,neutral,negative,theme
-2026-01-01,Andrew Dutkanych,MILB,4,1,3,0,
-2026-01-01,Antonio Anderson,MILB,6,2,4,0,
-2026-01-01,Braden Montgomery,MILB,23,15,7,1,
-2026-01-01,Christian Little,MILB,8,5,2,1,
-2026-01-01,Christopher Suero,MILB,8,5,3,0,
-2026-01-01,CJ Abrams,MLB,40,10,27,3,
-2026-01-01,Dominic Johnson,MILB,0,0,0,0,
-2026-01-01,Dominic Smith,MLB,40,10,21,9,
-2026-01-01,Ed Howard,MILB,9,2,6,1,
-2026-01-01,Gino Groover,MILB,9,2,7,0,
-2026-01-01,Ian Lewis,MILB,10,2,7,1,
-2026-01-01,Isaiah Drake,MILB,9,4,5,0,
-2026-01-01,Isaiah Greene,MILB,5,1,4,0,
-2026-01-01,Jaden Hill,MLB,40,16,22,2,
-2026-01-01,Jamari Baylor,MLB,10,5,5,0,
-2026-01-01,Jazz Chisholm,MLB,40,10,23,7,
-2026-01-01,Jeremiah Estrada,MLB,40,14,23,3,
-2026-01-01,Jordan McCants,MILB,1,0,1,0,
-2026-01-01,Logan Allen,Baseball,40,13,22,5,
-2026-01-01,Marcus Stroman,MLB,40,6,28,6,
-2026-01-01,Mark Vientos,MLB,40,12,23,5,
-2026-01-01,Masyn Winn,MLB,40,14,17,9,
-2026-01-01,Myles Smith,MILB,4,1,3,0,
-2026-01-01,Nick Kahle,MILB,10,4,5,1,
-2026-01-01,Niko Goodrum,MLB,40,13,22,5,
-2026-01-01,Nick Gordon,MLB,40,9,28,3,
-2026-01-01,Robinson Cano,Baseball,40,17,20,3,
-2026-01-01,Termarr Johnson,MILB,16,10,6,0,
-2026-01-01,TJ McCants,MILB,2,0,1,1,
-2026-01-01,Xavier Edwards,MLB,40,11,25,4,
-2026-01-01,Zack Showalter,MILB,9,3,4,2,
-2026-01-01,Aeneas Peebles,NFL Draft Prospect,10,4,3,3,
-2026-01-01,Andrew Thomas,NFL,40,10,23,7,
-2026-01-01,Andrew Voorhees,NFL,10,2,5,3,
-2026-01-01,Azeez Ojulari,NFL,40,14,19,7,
-2026-01-01,Baron Browning,NFL,40,12,26,2,
-2026-01-01,Bradley Chubb,NFL,40,22,15,3,
-2026-01-01,Brandon Coleman,NFL,40,13,18,9,
-2026-01-01,Brandon Jones,NFL,40,15,11,14,
-2026-01-01,Carlos Boogie Basham,NFL,22,6,14,2,
-2026-01-01,Chris Paul,NFL,40,7,24,9,
-2026-01-01,CJ Henderson,NFL,40,4,32,4,
-2026-01-01,Clay Webb,NFL Draft Prospect,10,6,1,3,
-2026-01-01,Devin Duvernay,NFL,40,6,30,4,
-2026-01-01,De'Von Achane,NFL,40,10,15,15,
-2026-01-01,Drake London,NFL,40,15,11,14,
-2026-01-01,Erik Ezukanma,NFL,40,4,27,9,
-2026-01-01,Gabriel Davis,NFL,40,9,25,6,
-2026-01-01,Germaine Pratt,NFL,40,7,29,4,
-2026-01-01,Isaiah Likely,NFL,40,7,17,16,
-2026-01-01,Jaire Alexander,NFL,40,6,30,4,
-2026-01-01,Jakorian Bennett,NFL,40,8,27,5,
-2026-01-01,Jalen McMillan,NFL,40,7,21,12,
-2026-01-01,Jalyn Armour-Davis,NFL,40,7,21,12,
-2026-01-01,Jamaree Salyer,NFL,40,6,25,9,
-2026-01-01,Jamel Dean,NFL,40,8,23,9,
-2026-01-01,Jaylon Jones,NFL,40,6,22,12,
-2026-01-01,Jordyn Brooks,NFL,39,5,20,14,
-2026-01-01,Josaiah Stewart,NFL Draft Prospect,12,8,3,1,
-2026-01-01,Julian Okwara,NFL,40,3,32,5,
-2026-01-01,Kevin Winston Jr,NFL Draft Prospect,11,5,5,1,
-2026-01-01,Kyler Murray,NFL,40,8,25,7,
-2026-01-01,Le'Raven Clark,NFL,40,8,24,8,
-2026-01-01,Lewis Cine,NFL,40,7,22,11,
-2026-01-01,Louis Rees Zammit,NFL,40,11,26,3,
-2026-01-01,Luiji Vilain,NFL,39,8,27,4,
-2026-01-01,Marcus Maye,NFL,40,13,17,10,
-2026-01-01,Micheal Clemons,NFL,40,9,20,11,
-2026-01-01,Michael Pittman Jr,NFL,40,15,15,10,
-2026-01-01,Patrick Paul,NFL,40,15,17,8,
-2026-01-01,Rashod Bateman,NFL,40,8,22,10,
-2026-01-01,Ronnie Stanley,NFL,40,12,19,9,
-2026-01-01,Roschon Johnson,NFL,40,8,18,14,
-2026-01-01,Sam Ehlinger,NFL,40,15,19,6,
-2026-01-01,Savion Williams,NFL Draft Prospect,16,12,3,1,
-2026-01-01,Terence Steele,NFL,40,10,18,12,
-2026-01-01,Trent Taylor,NFL,40,5,27,8,
-2026-01-01,Tyler Higbee,NFL,40,5,19,16,
-2026-01-01,Tyler Lacy,NFL,40,7,27,6,
-2026-01-01,Tyler Shough,NFL Draft Prospect,39,18,16,5,
-2026-01-01,Tyree Wilson,NFL,40,11,22,7,
-2026-01-01,Upton Stout,NFL Draft Prospect,10,4,5,1,
-2026-01-01,Will Campbell,NFL Draft Prospect,40,23,9,8,
-2026-01-01,Za'Darius Smith,NFL,40,12,24,4,
-2026-01-01,Zamir White,NFL,40,10,25,5,
-2026-01-01,Aphelele Fassi,Rugby,40,9,16,15,
-2026-01-01,Ardie Savea,Rugby,40,16,18,6,
-2026-01-01,Cheslin Kolbe,Rugby,40,20,16,4,
-2026-01-01,Ellis Genge,Rugby,40,6,26,8,
-2026-01-01,Jordan Hendrikse,Rugby,40,9,23,8,
-2026-01-01,Luyolo Doyi,Rugby,10,6,4,0,
-2026-01-01,Marcus Smith,Rugby,40,9,26,5,
-2026-01-01,Mamus Rademeyer,Rugby,0,0,0,0,
-2026-01-01,Ollie Lawrence,Rugby,40,9,14,17,
-2026-01-01,Owam Freempong,Rugby,0,0,0,0,
-2026-01-01,Ronald Brown,Rugby,40,13,17,10,
-2026-01-01,Siya Kolisi,Rugby,40,10,24,6,
-2026-01-01,Tendai Mtawarira,Rugby,40,20,15,5,
-2026-01-01,Zukisani Tom,Rugby,3,3,0,0,
-2026-01-01,Adem Bona,NBA,40,13,23,4,
-2026-01-01,Bennie Boatwright,Basketball,40,14,23,3,
-2026-01-01,Buddy Boeheim,NBA,40,12,26,2,
-2026-01-01,Chris Boucher,NBA,40,14,22,4,
-2026-01-01,Dillon Jones,NBA,40,10,27,3,
-2026-01-01,James Young,Basketball,40,7,33,0,
-2026-01-01,Jimmy Boeheim,Basketball,40,17,21,2,
-2026-01-01,Kevin Porter Jr,NBA,40,6,27,7,
-2026-01-01,LaMelo Ball,NBA,40,12,16,12,
-2026-01-01,Quincy Guerrier,NBA,40,5,33,2,
-2026-01-01,Rickea Jackson,WNBA,39,17,22,0,
-2026-01-01,Skylar Diggins-Smith,WNBA,40,10,27,3,
-2026-01-01,Allen Griffin,Coach,37,9,25,3,
-2026-01-01,Dejan Stanković,Coach,40,7,29,4,
-2026-01-01,God Shammgod,Coach,40,23,15,2,
-2026-01-01,Hamlet Tibbs,Coach,9,4,5,0,
-2026-01-01,Hue Jackson,Coach,40,4,26,10,
-2026-01-01,Kliff Kingsbury,Coach,40,11,19,10,
-2026-01-01,Rod Strickland,Coach,40,7,27,6,
-2026-01-01,Adedire Mebude,Soccer,5,1,3,1,
-2026-01-01,Alan Kardec De Souza,Soccer,0,0,0,0,
-2026-01-01,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,
-2026-01-01,Alfie McNally,Soccer,2,1,1,0,
-2026-01-01,Andre Silva,Soccer,40,10,11,19,
-2026-01-01,Andre Clovis Silva Filho,Soccer,0,0,0,0,
-2026-01-01,Andrew brody,Soccer,35,7,25,3,
-2026-01-01,Anthony Fontana,Soccer,26,10,15,1,
-2026-01-01,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,
-2026-01-01,Arthur Augusto De Matos Soares,Soccer,1,0,1,0,
-2026-01-01,Arthur Zanell Koerich,Soccer,0,0,0,0,
-2026-01-01,Axel Uriostegui,Soccer,8,5,3,0,
-2026-01-01,Axel Witsel,Soccer,38,9,23,6,
-2026-01-01,Aziel Jackson,Soccer,32,13,19,0,
-2026-01-01,Billy Gee,Soccer,7,4,2,1,
-2026-01-01,Bradley Ibrahim,Soccer,8,3,4,1,
-2026-01-01,Brooke Norton-Cuffy,Soccer,34,10,22,2,
-2026-01-01,Ciao Leao Do Amaral,Soccer,0,0,0,0,
-2026-01-01,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,
-2026-01-01,Cauly Oliveira Souza,Soccer,1,0,0,1,
-2026-01-01,Charlie Rosenthal,Soccer,9,2,7,0,
-2026-01-01,Chadi Riad,Soccer,26,6,16,4,
-2026-01-01,Chris Richards,Soccer,40,9,21,10,
-2026-01-01,Christian Dimarco,Soccer,4,2,2,0,
-2026-01-01,Conor Lewis,Soccer,1,0,1,0,
-2026-01-01,Dakota Watterson,Soccer,10,4,6,0,
-2026-01-01,Davi Milhomens Waisman,Soccer,0,0,0,0,
-2026-01-01,David Viana De Oliveira,Soccer,0,0,0,0,
-2026-01-01,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,
-2026-01-01,Deji Elerewe,Soccer,10,6,4,0,
-2026-01-01,Diego Esser Pereira,Soccer,0,0,0,0,
-2026-01-01,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,
-2026-01-01,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,
-2026-01-01,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,
-2026-01-01,Emersonn Correia Da Silva,Soccer,2,1,1,0,
-2026-01-01,Endrick Felipe Moreira de Sousa,Soccer,13,4,8,1,
-2026-01-01,Ezra Carrington,Soccer,2,0,2,0,
-2026-01-01,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,
-2026-01-01,Federico Dimarco,Soccer,40,8,28,4,
-2026-01-01,Felipe Felicio Silva Reis,Soccer,0,0,0,0,
-2026-01-01,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,
-2026-01-01,Gabriel Correia Da Silva,Soccer,0,0,0,0,
-2026-01-01,Gabriel Teodoro Martinelli Silva,Soccer,9,3,4,2,
-2026-01-01,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,
-2026-01-01,Gustavo Henrique Correa,Soccer,0,0,0,0,
-2026-01-01,Gustavo Reis De Alcantara,Soccer,0,0,0,0,
-2026-01-01,Grayson Doody,Soccer,9,2,7,0,
-2026-01-01,Henrique De Souza Trevisan,Soccer,0,0,0,0,
-2026-01-01,Igor Toledo E Toledo,Soccer,0,0,0,0,
-2026-01-01,Isaiah Parker,Soccer,11,3,8,0,
-2026-01-01,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,
-2026-01-01,Jack Mcglynn,Soccer,40,4,28,8,
-2026-01-01,Jackson Teixeira Filho,Soccer,0,0,0,0,
-2026-01-01,Jacob Neptune,Soccer,0,0,0,0,
-2026-01-01,Jacob Wright,Soccer,21,8,9,4,
-2026-01-01,Jadan Raymond,Soccer,9,4,5,0,
-2026-01-01,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,
-2026-01-01,Jahmari Clarke,Soccer,5,2,2,1,
-2026-01-01,Jhuan Nunes Coelho,Soccer,0,0,0,0,
-2026-01-01,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,
-2026-01-01,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,
-2026-01-01,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,
-2026-01-01,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,
-2026-01-01,João Victor Vieira Ferreira Sousa,Soccer,0,0,0,0,
-2026-01-01,Joel Gasco,Soccer,0,0,0,0,
-2026-01-01,Jojea Kwizera,Soccer,39,8,28,3,
-2026-01-01,Jordi Saucedo,Soccer,0,0,0,0,
-2026-01-01,Jose Rafael Vivian,Soccer,0,0,0,0,
-2026-01-01,Josh Nichols,Soccer,27,8,18,1,
-2026-01-01,Justen Glad,Soccer,40,27,10,3,
-2026-01-01,Kaiden Wilson,Soccer,10,2,8,0,
-2026-01-01,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,
-2026-01-01,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,
-2026-01-01,Keaton Parks,Soccer,40,9,28,3,
-2026-01-01,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,
-2026-01-01,Kevin de Bruyne,Soccer,40,8,23,9,
-2026-01-01,Kevyn Henrique Monteiro De Souza,Soccer,0,0,0,0,
-2026-01-01,Korede Osundina,Soccer,9,3,6,0,
-2026-01-01,Lazaro Vinicius Marques,Soccer,8,0,8,0,
-2026-01-01,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,
-2026-01-01,Leonardo de Azevedo Silva,Soccer,0,0,0,0,
-2026-01-01,Lewis Orford,Soccer,10,5,5,0,
-2026-01-01,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,
-2026-01-01,Lorran Lucas Pereira De Sousa,Soccer,1,0,1,0,
-2026-01-01,Luan Andrey Da Silva Duarte,Soccer,1,0,1,0,
-2026-01-01,Luca Fletcher,Soccer,3,1,2,0,
-2026-01-01,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,
-2026-01-01,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,
-2026-01-01,Lucas Felipe Calegari,Soccer,1,0,1,0,
-2026-01-01,Lucas Fernandes da Silva,Soccer,0,0,0,0,
-2026-01-01,Lucas Henrique Barbosa,Soccer,8,0,8,0,
-2026-01-01,Lucas Pires Silva,Soccer,2,0,2,0,
-2026-01-01,Lucas Rosa Gazzotto,Soccer,0,0,0,0,
-2026-01-01,Lucas Tolentino Coelho De Lima,Soccer,10,2,6,2,
-2026-01-01,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,
-2026-01-01,Manuel Vila Cabezas,Soccer,0,0,0,0,
-2026-01-01,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,
-2026-01-01,Marcos Antonio Silva Santos,Soccer,0,0,0,0,
-2026-01-01,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,
-2026-01-01,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,
-2026-01-01,Mateus Da Frada Lustosa,Soccer,0,0,0,0,
-2026-01-01,Mateus Dias Lima,Soccer,0,0,0,0,
-2026-01-01,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,
-2026-01-01,Matheus Dalsasso Dias,Soccer,0,0,0,0,
-2026-01-01,Matheus Rossetto,Soccer,18,9,7,2,
-2026-01-01,Matt Miazaga,Soccer,3,1,2,0,
-2026-01-01,Matt Real,Soccer,23,1,21,1,
-2026-01-01,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,
-2026-01-01,Murilo Camargo Dos Santos,Soccer,0,0,0,0,
-2026-01-01,Murilo Cerqueira Paim,Soccer,1,1,0,0,
-2026-01-01,Nathan Ferguson,Soccer,19,6,9,4,
-2026-01-01,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,
-2026-01-01,Nathan Santos de Araújo,Soccer,1,0,1,0,
-2026-01-01,Nkosi Tafari,Soccer,30,6,23,1,
-2026-01-01,Olger Escobar,Soccer,38,5,33,0,
-2026-01-01,Òscar Masqué García,Soccer,0,0,0,0,
-2026-01-01,Oscar Torrellas,Soccer,0,0,0,0,
-2026-01-01,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,
-2026-01-01,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,
-2026-01-01,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,
-2026-01-01,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,
-2026-01-01,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,
-2026-01-01,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,
-2026-01-01,Rafael Barbosa Coutinho,Soccer,2,0,2,0,
-2026-01-01,Renato Marques de Oliveira Junior,Soccer,0,0,0,0,
-2026-01-01,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,
-2026-01-01,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,
-2026-01-01,Ruan Lucas De Assis,Soccer,0,0,0,0,
-2026-01-01,Rubens Antonio Dias,Soccer,0,0,0,0,
-2026-01-01,Ryan Medina Da Silva,Soccer,0,0,0,0,
-2026-01-01,Samuel Alves Barroso,Soccer,0,0,0,0,
-2026-01-01,Samuel Lusale,Soccer,9,7,2,0,
-2026-01-01,Seth Chingwaro,Soccer,10,3,7,0,
-2026-01-01,Theo Adelusi,Soccer,2,0,2,0,
-2026-01-01,Thierry Rohart-Brown,Soccer,5,3,2,0,
-2026-01-01,Tim Parker,Soccer,40,11,27,2,
-2026-01-01,Tucker Lepley,Soccer,30,13,12,5,
-2026-01-01,Tyreece John-Jules,Soccer,10,6,4,0,
-2026-01-01,Victor Hugo Gomes Silva,Soccer,0,0,0,0,
-2026-01-01,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,
-2026-01-01,Vinicius Jose Paixao de Oliveira Junior,Soccer,11,5,3,3,
-2026-01-01,Vonnte Williams,Soccer,1,1,0,0,
-2026-01-01,Vitor Carvalho,Soccer,9,0,8,1,
-2026-01-01,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,
-2026-01-01,Vitor Tormena de Farias,Soccer,0,0,0,0,
-2026-01-01,Weverson Moreira da Costa,Soccer,0,0,0,0,
-2026-01-01,Xavier Amaechi,Soccer,10,1,8,1,
-2026-01-01,Yann Neves Siqueira,Soccer,0,0,0,0,
-2026-01-01,Ykaro Toledo E Toledo,Soccer,0,0,0,0,
-2026-01-01,Zach Marsh,Soccer,8,2,6,0,
-2026-01-01,Adia Victoria,singer,40,9,26,5,
-2026-01-01,Alicia Keys,singer,40,18,20,2,
-2026-01-01,A$AP Ferg,ASAP Ferg,40,7,29,4,
-2026-01-01,A$AP ROCKY,ASAP ROCKY,40,16,18,6,
-2026-01-01,Benny The Butcher,rapper,40,9,26,5,
-2026-01-01,Bohnes,Alexander DeLeon,13,4,9,0,
-2026-01-01,Christina Aguilera,singer,40,6,29,5,
-2026-01-01,Corinne Bailey Rae,singer,40,5,27,8,
-2026-01-01,DJ Khaled,record producer,40,16,21,3,
-2026-01-01,Ezinma,violinist,22,10,11,1,
-2026-01-01,Fat Joe,rapper,40,7,13,20,
-2026-01-01,J Balvin,singer,40,11,25,4,
-2026-01-01,Jadakiss,rapper,40,17,19,4,
-2026-01-01,Jess Glynne,singer,40,12,22,6,
-2026-01-01,Kate Peytavin,singer,3,1,0,2,
-2026-01-01,Lil Uzi Vert,rapper,40,12,15,13,
-2026-01-01,Lous and the Yakuza,singer,31,7,22,2,
-2026-01-01,Megan Thee Stallion,rapper,40,12,15,13,
-2026-01-01,Moneybagg Yo,rapper,40,13,25,2,
-2026-01-01,DJ Mustard,record producer,16,10,4,2,
-2026-01-01,Nipsey Hussle,rapper,40,7,19,14,
-2026-01-01,Rihanna,singer,40,24,10,6,
-2026-01-01,Robin Thicke,singer,40,18,14,8,
-2026-01-01,The LOX,hip hop group,40,18,18,4,
-2026-01-01,Tinashe,singer,40,7,24,9,
-2026-01-01,Yo Gotti,rapper,40,8,18,14,
-2026-01-01,Bodega Flee,DJ,5,0,5,0,
-2026-01-01,DJ Camilo,radio personality,3,1,2,0,
-2026-01-01,Angie Martinez,radio personality,40,7,28,5,
-2026-01-01,Van Jones,media personality,11,2,6,3,
-2026-01-01,Fred Ball,record producer,3,0,2,1,
-2026-01-01,Big Sean,rapper,40,21,17,2,
-2026-01-01,DJ LYAN,music producer,5,1,2,2,
-2026-01-01,Madison Bailey,actress,40,14,21,5,
-2026-01-01,Myke Towers,rapper,40,11,25,4,
-2026-01-01,Desiree Perez,Roc Nation,40,8,17,15,
-2026-01-01,Jay-Z,rapper,40,18,13,9,
 2026-01-02,Andrew Dutkanych,MILB,4,1,3,0,
 2026-01-02,Antonio Anderson,MILB,6,1,5,0,
 2026-01-02,Braden Montgomery,MILB,24,15,8,1,
@@ -27449,308 +27144,613 @@ date,brand,company,total,positive,neutral,negative,theme
 2026-03-31,Myke Towers,rapper,40,12,24,4,
 2026-03-31,Desiree Perez,Roc Nation,40,10,19,11,
 2026-03-31,Jay-Z,rapper,40,13,16,11,
-2026-04-01,Andrew Dutkanych,MILB,4,0,4,0,None
-2026-04-01,Antonio Anderson,MILB,4,1,3,0,None
-2026-04-01,Braden Montgomery,MILB,26,5,21,0,None
-2026-04-01,Christian Little,MILB,8,3,3,2,None
-2026-04-01,Christopher Suero,MILB,10,2,8,0,None
-2026-04-01,CJ Abrams,MLB,36,8,24,4,None
-2026-04-01,Dominic Johnson,MILB,0,0,0,0,None
-2026-04-01,Dominic Smith,MLB,37,15,12,10,None
-2026-04-01,Ed Howard,MILB,5,2,2,1,None
-2026-04-01,Gino Groover,MILB,10,0,10,0,None
-2026-04-01,Ian Lewis,MILB,5,1,3,1,None
-2026-04-01,Isaiah Drake,MILB,6,2,4,0,None
-2026-04-01,Isaiah Greene,MILB,3,1,2,0,None
-2026-04-01,Jaden Hill,MLB,38,12,23,3,None
-2026-04-01,Jamari Baylor,MLB,7,3,4,0,None
-2026-04-01,Jazz Chisholm,MLB,39,17,18,4,None
-2026-04-01,Jeremiah Estrada,MLB,40,14,21,5,None
-2026-04-01,Jordan McCants,MILB,7,2,5,0,None
-2026-04-01,Logan Allen,Baseball,39,11,24,4,None
-2026-04-01,Marcus Stroman,MLB,40,11,22,7,None
-2026-04-01,Mark Vientos,MLB,37,14,18,5,None
-2026-04-01,Masyn Winn,MLB,37,12,21,4,None
-2026-04-01,Myles Smith,MILB,9,1,8,0,None
-2026-04-01,Nick Kahle,MILB,3,2,1,0,None
-2026-04-01,Niko Goodrum,MLB,40,13,23,4,None
-2026-04-01,Nick Gordon,MLB,39,8,29,2,None
-2026-04-01,Robinson Cano,Baseball,39,17,18,4,None
-2026-04-01,Termarr Johnson,MILB,17,7,9,1,None
-2026-04-01,TJ McCants,MILB,4,1,3,0,None
-2026-04-01,Xavier Edwards,MLB,37,10,24,3,None
-2026-04-01,Zack Showalter,MILB,2,1,1,0,None
-2026-04-01,Aeneas Peebles,NFL Draft Prospect,9,4,4,1,None
-2026-04-01,Andrew Thomas,NFL,40,13,19,8,None
-2026-04-01,Andrew Voorhees,NFL,10,3,5,2,None
-2026-04-01,Azeez Ojulari,NFL,40,11,23,6,None
-2026-04-01,Baron Browning,NFL,39,11,27,1,None
-2026-04-01,Bradley Chubb,NFL,40,13,22,5,None
-2026-04-01,Brandon Coleman,NFL,40,9,23,8,None
-2026-04-01,Brandon Jones,NFL,40,11,17,12,None
-2026-04-01,Carlos Boogie Basham,NFL,20,3,15,2,None
-2026-04-01,Chris Paul,NFL,40,13,21,6,None
-2026-04-01,CJ Henderson,NFL,40,4,31,5,None
-2026-04-01,Clay Webb,NFL Draft Prospect,9,1,3,5,None
-2026-04-01,Devin Duvernay,NFL,40,10,25,5,None
-2026-04-01,De'Von Achane,NFL,39,6,30,3,None
-2026-04-01,Drake London,NFL,40,11,14,15,None
-2026-04-01,Erik Ezukanma,NFL,40,4,28,8,None
-2026-04-01,Gabriel Davis,NFL,40,9,27,4,None
-2026-04-01,Germaine Pratt,NFL,39,9,26,4,None
-2026-04-01,Isaiah Likely,NFL,39,17,15,7,None
-2026-04-01,Jaire Alexander,NFL,40,8,24,8,None
-2026-04-01,Jakorian Bennett,NFL,40,5,29,6,None
-2026-04-01,Jalen McMillan,NFL,40,9,22,9,None
-2026-04-01,Jalyn Armour-Davis,NFL,40,7,21,12,None
-2026-04-01,Jamaree Salyer,NFL,40,8,21,11,None
-2026-04-01,Jamel Dean,NFL,40,15,22,3,None
-2026-04-01,Jaylon Jones,NFL,39,5,26,8,None
-2026-04-01,Jordyn Brooks,NFL,39,6,28,5,None
-2026-04-01,Josaiah Stewart,NFL Draft Prospect,9,6,1,2,None
-2026-04-01,Julian Okwara,NFL,39,7,29,3,None
-2026-04-01,Kevin Winston Jr,NFL Draft Prospect,10,6,3,1,None
-2026-04-01,Kyler Murray,NFL,40,14,23,3,None
-2026-04-01,Le'Raven Clark,NFL,40,9,20,11,None
-2026-04-01,Lewis Cine,NFL,40,7,22,11,None
-2026-04-01,Louis Rees Zammit,NFL,40,9,29,2,None
-2026-04-01,Luiji Vilain,NFL,39,7,28,4,None
-2026-04-01,Marcus Maye,NFL,40,15,18,7,None
-2026-04-01,Micheal Clemons,NFL,40,9,23,8,None
-2026-04-01,Michael Pittman Jr,NFL,40,11,25,4,None
-2026-04-01,Patrick Paul,NFL,40,12,22,6,None
-2026-04-01,Rashod Bateman,NFL,40,10,20,10,None
-2026-04-01,Ronnie Stanley,NFL,40,11,18,11,None
-2026-04-01,Roschon Johnson,NFL,40,8,21,11,None
-2026-04-01,Sam Ehlinger,NFL,40,16,21,3,None
-2026-04-01,Savion Williams,NFL Draft Prospect,15,11,3,1,None
-2026-04-01,Terence Steele,NFL,40,12,15,13,None
-2026-04-01,Trent Taylor,NFL,40,4,28,8,None
-2026-04-01,Tyler Higbee,NFL,40,14,20,6,None
-2026-04-01,Tyler Lacy,NFL,39,7,26,6,None
-2026-04-01,Tyler Shough,NFL Draft Prospect,40,24,12,4,None
-2026-04-01,Tyree Wilson,NFL,39,10,27,2,None
-2026-04-01,Upton Stout,NFL Draft Prospect,10,4,6,0,None
-2026-04-01,Will Campbell,NFL Draft Prospect,40,22,8,10,None
-2026-04-01,Za'Darius Smith,NFL,40,11,24,5,None
-2026-04-01,Zamir White,NFL,40,10,23,7,None
-2026-04-01,Aphelele Fassi,Rugby,40,10,16,14,None
-2026-04-01,Ardie Savea,Rugby,40,8,20,12,None
-2026-04-01,Cheslin Kolbe,Rugby,40,22,11,7,None
-2026-04-01,Ellis Genge,Rugby,40,9,18,13,None
-2026-04-01,Jordan Hendrikse,Rugby,40,7,26,7,None
-2026-04-01,Luyolo Doyi,Rugby,8,5,3,0,None
-2026-04-01,Marcus Smith,Rugby,40,11,22,7,None
-2026-04-01,Mamus Rademeyer,Rugby,0,0,0,0,None
-2026-04-01,Ollie Lawrence,Rugby,40,9,20,11,None
-2026-04-01,Owam Freempong,Rugby,0,0,0,0,None
-2026-04-01,Ronald Brown,Rugby,33,11,14,8,None
-2026-04-01,Siya Kolisi,Rugby,40,14,20,6,None
-2026-04-01,Tendai Mtawarira,Rugby,40,20,15,5,None
-2026-04-01,Zukisani Tom,Rugby,4,3,1,0,None
-2026-04-01,Adem Bona,NBA,33,10,16,7,None
-2026-04-01,Bennie Boatwright,Basketball,40,12,24,4,None
-2026-04-01,Buddy Boeheim,NBA,40,7,32,1,None
-2026-04-01,Chris Boucher,NBA,40,11,27,2,None
-2026-04-01,Dillon Jones,NBA,40,5,33,2,None
-2026-04-01,James Young,Basketball,40,6,33,1,None
-2026-04-01,Jimmy Boeheim,Basketball,40,20,20,0,None
-2026-04-01,Kevin Porter Jr,NBA,39,6,20,13,None
-2026-04-01,LaMelo Ball,NBA,36,7,26,3,None
-2026-04-01,Quincy Guerrier,NBA,40,7,32,1,None
-2026-04-01,Rickea Jackson,WNBA,40,9,10,21,None
-2026-04-01,Skylar Diggins-Smith,WNBA,40,10,24,6,None
-2026-04-01,Allen Griffin,Coach,33,10,20,3,None
-2026-04-01,Dejan Stanković,Coach,40,9,29,2,None
-2026-04-01,God Shammgod,Coach,40,21,17,2,None
-2026-04-01,Hamlet Tibbs,Coach,10,5,5,0,None
-2026-04-01,Hue Jackson,Coach,40,4,18,18,None
-2026-04-01,Kliff Kingsbury,Coach,40,8,26,6,None
-2026-04-01,Rod Strickland,Coach,40,6,22,12,None
-2026-04-01,Adedire Mebude,Soccer,10,0,8,2,None
-2026-04-01,Alan Kardec De Souza,Soccer,0,0,0,0,None
-2026-04-01,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,None
-2026-04-01,Alfie McNally,Soccer,6,1,5,0,None
-2026-04-01,Andre Silva,Soccer,40,8,16,16,None
-2026-04-01,Andre Clovis Silva Filho,Soccer,0,0,0,0,None
-2026-04-01,Andrew brody,Soccer,36,6,29,1,None
-2026-04-01,Anthony Fontana,Soccer,31,10,20,1,None
-2026-04-01,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,None
-2026-04-01,Arthur Augusto De Matos Soares,Soccer,0,0,0,0,None
-2026-04-01,Arthur Zanell Koerich,Soccer,0,0,0,0,None
-2026-04-01,Axel Uriostegui,Soccer,9,6,3,0,None
-2026-04-01,Axel Witsel,Soccer,40,12,23,5,None
-2026-04-01,Aziel Jackson,Soccer,17,5,11,1,None
-2026-04-01,Billy Gee,Soccer,8,0,8,0,None
-2026-04-01,Bradley Ibrahim,Soccer,9,3,5,1,None
-2026-04-01,Brooke Norton-Cuffy,Soccer,39,14,23,2,None
-2026-04-01,Ciao Leao Do Amaral,Soccer,0,0,0,0,None
-2026-04-01,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,None
-2026-04-01,Cauly Oliveira Souza,Soccer,3,0,3,0,None
-2026-04-01,Charlie Rosenthal,Soccer,9,3,6,0,None
-2026-04-01,Chadi Riad,Soccer,40,12,22,6,None
-2026-04-01,Chris Richards,Soccer,40,8,20,12,None
-2026-04-01,Christian Dimarco,Soccer,9,1,8,0,None
-2026-04-01,Conor Lewis,Soccer,2,0,2,0,None
-2026-04-01,Dakota Watterson,Soccer,10,3,7,0,None
-2026-04-01,Davi Milhomens Waisman,Soccer,0,0,0,0,None
-2026-04-01,David Viana De Oliveira,Soccer,1,0,1,0,None
-2026-04-01,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,None
-2026-04-01,Deji Elerewe,Soccer,5,3,2,0,None
-2026-04-01,Diego Esser Pereira,Soccer,1,0,1,0,None
-2026-04-01,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,None
-2026-04-01,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,None
-2026-04-01,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,None
-2026-04-01,Emersonn Correia Da Silva,Soccer,2,1,1,0,None
-2026-04-01,Endrick Felipe Moreira de Sousa,Soccer,12,4,7,1,None
-2026-04-01,Ezra Carrington,Soccer,4,0,4,0,None
-2026-04-01,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,None
-2026-04-01,Federico Dimarco,Soccer,40,12,22,6,None
-2026-04-01,Felipe Felicio Silva Reis,Soccer,0,0,0,0,None
-2026-04-01,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,None
-2026-04-01,Gabriel Correia Da Silva,Soccer,0,0,0,0,None
-2026-04-01,Gabriel Teodoro Martinelli Silva,Soccer,8,3,4,1,None
-2026-04-01,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,None
-2026-04-01,Gustavo Henrique Correa,Soccer,0,0,0,0,None
-2026-04-01,Gustavo Reis De Alcantara,Soccer,2,0,2,0,None
-2026-04-01,Grayson Doody,Soccer,15,1,14,0,None
-2026-04-01,Henrique De Souza Trevisan,Soccer,0,0,0,0,None
-2026-04-01,Igor Toledo E Toledo,Soccer,2,0,2,0,None
-2026-04-01,Isaiah Parker,Soccer,14,3,11,0,None
-2026-04-01,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,None
-2026-04-01,Jack Mcglynn,Soccer,40,6,23,11,None
-2026-04-01,Jackson Teixeira Filho,Soccer,0,0,0,0,None
-2026-04-01,Jacob Neptune,Soccer,2,0,2,0,None
-2026-04-01,Jacob Wright,Soccer,29,8,18,3,None
-2026-04-01,Jadan Raymond,Soccer,10,5,5,0,None
-2026-04-01,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,None
-2026-04-01,Jahmari Clarke,Soccer,7,2,4,1,None
-2026-04-01,Jhuan Nunes Coelho,Soccer,0,0,0,0,None
-2026-04-01,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,None
-2026-04-01,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,None
-2026-04-01,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,None
-2026-04-01,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,None
-2026-04-01,João Victor Vieira Ferreira Sousa,Soccer,1,0,1,0,None
-2026-04-01,Joel Gasco,Soccer,0,0,0,0,None
-2026-04-01,Jojea Kwizera,Soccer,36,8,26,2,None
-2026-04-01,Jordi Saucedo,Soccer,0,0,0,0,None
-2026-04-01,Jose Rafael Vivian,Soccer,0,0,0,0,None
-2026-04-01,Josh Nichols,Soccer,33,11,20,2,None
-2026-04-01,Justen Glad,Soccer,39,26,9,4,None
-2026-04-01,Kaiden Wilson,Soccer,9,4,5,0,None
-2026-04-01,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,None
-2026-04-01,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,None
-2026-04-01,Keaton Parks,Soccer,34,5,25,4,None
-2026-04-01,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,None
-2026-04-01,Kevin de Bruyne,Soccer,40,13,19,8,None
-2026-04-01,Kevyn Henrique Monteiro De Souza,Soccer,1,0,1,0,None
-2026-04-01,Korede Osundina,Soccer,14,3,10,1,None
-2026-04-01,Lazaro Vinicius Marques,Soccer,7,0,7,0,None
-2026-04-01,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,None
-2026-04-01,Leonardo de Azevedo Silva,Soccer,0,0,0,0,None
-2026-04-01,Lewis Orford,Soccer,15,9,5,1,None
-2026-04-01,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,None
-2026-04-01,Lorran Lucas Pereira De Sousa,Soccer,1,0,1,0,None
-2026-04-01,Luan Andrey Da Silva Duarte,Soccer,0,0,0,0,None
-2026-04-01,Luca Fletcher,Soccer,5,1,4,0,None
-2026-04-01,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,None
-2026-04-01,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,None
-2026-04-01,Lucas Felipe Calegari,Soccer,0,0,0,0,None
-2026-04-01,Lucas Fernandes da Silva,Soccer,0,0,0,0,None
-2026-04-01,Lucas Henrique Barbosa,Soccer,7,0,7,0,None
-2026-04-01,Lucas Pires Silva,Soccer,2,0,2,0,None
-2026-04-01,Lucas Rosa Gazzotto,Soccer,0,0,0,0,None
-2026-04-01,Lucas Tolentino Coelho De Lima,Soccer,10,1,8,1,None
-2026-04-01,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,None
-2026-04-01,Manuel Vila Cabezas,Soccer,0,0,0,0,None
-2026-04-01,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,None
-2026-04-01,Marcos Antonio Silva Santos,Soccer,0,0,0,0,None
-2026-04-01,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,None
-2026-04-01,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,None
-2026-04-01,Mateus Da Frada Lustosa,Soccer,0,0,0,0,None
-2026-04-01,Mateus Dias Lima,Soccer,0,0,0,0,None
-2026-04-01,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,None
-2026-04-01,Matheus Dalsasso Dias,Soccer,0,0,0,0,None
-2026-04-01,Matheus Rossetto,Soccer,31,19,11,1,None
-2026-04-01,Matt Miazaga,Soccer,3,0,3,0,None
-2026-04-01,Matt Real,Soccer,35,10,19,6,None
-2026-04-01,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,None
-2026-04-01,Murilo Camargo Dos Santos,Soccer,0,0,0,0,None
-2026-04-01,Murilo Cerqueira Paim,Soccer,1,1,0,0,None
-2026-04-01,Nathan Ferguson,Soccer,20,5,11,4,None
-2026-04-01,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,None
-2026-04-01,Nathan Santos de Araújo,Soccer,0,0,0,0,None
-2026-04-01,Nkosi Tafari,Soccer,40,11,28,1,None
-2026-04-01,Olger Escobar,Soccer,38,5,32,1,None
-2026-04-01,Òscar Masqué García,Soccer,1,0,1,0,None
-2026-04-01,Oscar Torrellas,Soccer,0,0,0,0,None
-2026-04-01,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,None
-2026-04-01,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,None
-2026-04-01,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,None
-2026-04-01,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,None
-2026-04-01,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,None
-2026-04-01,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,None
-2026-04-01,Rafael Barbosa Coutinho,Soccer,2,0,2,0,None
-2026-04-01,Renato Marques de Oliveira Junior,Soccer,1,0,1,0,None
-2026-04-01,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,None
-2026-04-01,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,None
-2026-04-01,Ruan Lucas De Assis,Soccer,0,0,0,0,None
-2026-04-01,Rubens Antonio Dias,Soccer,0,0,0,0,None
-2026-04-01,Ryan Medina Da Silva,Soccer,0,0,0,0,None
-2026-04-01,Samuel Alves Barroso,Soccer,0,0,0,0,None
-2026-04-01,Samuel Lusale,Soccer,11,7,4,0,None
-2026-04-01,Seth Chingwaro,Soccer,9,1,8,0,None
-2026-04-01,Theo Adelusi,Soccer,1,0,1,0,None
-2026-04-01,Thierry Rohart-Brown,Soccer,9,2,7,0,None
-2026-04-01,Tim Parker,Soccer,39,10,28,1,None
-2026-04-01,Tucker Lepley,Soccer,40,9,31,0,None
-2026-04-01,Tyreece John-Jules,Soccer,20,3,17,0,None
-2026-04-01,Victor Hugo Gomes Silva,Soccer,3,1,2,0,None
-2026-04-01,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,None
-2026-04-01,Vinicius Jose Paixao de Oliveira Junior,Soccer,6,2,2,2,None
-2026-04-01,Vonnte Williams,Soccer,2,0,2,0,None
-2026-04-01,Vitor Carvalho,Soccer,4,0,3,1,None
-2026-04-01,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,None
-2026-04-01,Vitor Tormena de Farias,Soccer,0,0,0,0,None
-2026-04-01,Weverson Moreira da Costa,Soccer,1,0,1,0,None
-2026-04-01,Xavier Amaechi,Soccer,9,1,8,0,None
-2026-04-01,Yann Neves Siqueira,Soccer,0,0,0,0,None
-2026-04-01,Ykaro Toledo E Toledo,Soccer,0,0,0,0,None
-2026-04-01,Zach Marsh,Soccer,9,0,9,0,None
-2026-04-01,Adia Victoria,singer,40,6,27,7,None
-2026-04-01,Alicia Keys,singer,40,12,27,1,None
-2026-04-01,A$AP Ferg,ASAP Ferg,40,5,31,4,None
-2026-04-01,A$AP ROCKY,ASAP ROCKY,40,13,21,6,None
-2026-04-01,Benny The Butcher,rapper,40,11,25,4,None
-2026-04-01,Bohnes,Alexander DeLeon,15,5,10,0,None
-2026-04-01,Christina Aguilera,singer,40,10,22,8,None
-2026-04-01,Corinne Bailey Rae,singer,40,10,20,10,None
-2026-04-01,DJ Khaled,record producer,40,18,17,5,None
-2026-04-01,Ezinma,violinist,20,9,10,1,None
-2026-04-01,Fat Joe,rapper,40,7,14,19,None
-2026-04-01,J Balvin,singer,40,14,23,3,None
-2026-04-01,Jadakiss,rapper,40,15,19,6,None
-2026-04-01,Jess Glynne,singer,40,13,21,6,None
-2026-04-01,Kate Peytavin,singer,3,2,0,1,None
-2026-04-01,Lil Uzi Vert,rapper,40,14,16,10,None
-2026-04-01,Lous and the Yakuza,singer,30,6,23,1,None
-2026-04-01,Megan Thee Stallion,rapper,40,5,21,14,None
-2026-04-01,Moneybagg Yo,rapper,40,15,22,3,None
-2026-04-01,DJ Mustard,record producer,12,8,3,1,None
-2026-04-01,Nipsey Hussle,rapper,39,11,12,16,None
-2026-04-01,Rihanna,singer,40,2,8,30,None
-2026-04-01,Robin Thicke,singer,40,17,17,6,None
-2026-04-01,The LOX,hip hop group,40,17,15,8,None
-2026-04-01,Tinashe,singer,40,11,19,10,None
-2026-04-01,Yo Gotti,rapper,40,7,15,18,None
-2026-04-01,Bodega Flee,DJ,3,0,3,0,None
-2026-04-01,DJ Camilo,radio personality,5,1,4,0,None
-2026-04-01,Angie Martinez,radio personality,40,8,27,5,None
-2026-04-01,Van Jones,media personality,13,4,3,6,None
-2026-04-01,Fred Ball,record producer,4,1,2,1,None
-2026-04-01,Big Sean,rapper,40,20,14,6,None
-2026-04-01,DJ LYAN,music producer,5,1,2,2,None
-2026-04-01,Madison Bailey,actress,40,11,25,4,None
-2026-04-01,Myke Towers,rapper,40,11,24,5,None
-2026-04-01,Desiree Perez,Roc Nation,40,10,19,11,None
-2026-04-01,Jay-Z,rapper,40,17,18,5,None
+2026-04-01,Andrew Dutkanych,MILB,4,0,4,0,
+2026-04-01,Antonio Anderson,MILB,4,1,3,0,
+2026-04-01,Braden Montgomery,MILB,26,5,21,0,
+2026-04-01,Christian Little,MILB,8,3,3,2,
+2026-04-01,Christopher Suero,MILB,10,2,8,0,
+2026-04-01,CJ Abrams,MLB,36,8,24,4,
+2026-04-01,Dominic Johnson,MILB,0,0,0,0,
+2026-04-01,Dominic Smith,MLB,37,15,12,10,
+2026-04-01,Ed Howard,MILB,5,2,2,1,
+2026-04-01,Gino Groover,MILB,10,0,10,0,
+2026-04-01,Ian Lewis,MILB,5,1,3,1,
+2026-04-01,Isaiah Drake,MILB,6,2,4,0,
+2026-04-01,Isaiah Greene,MILB,3,1,2,0,
+2026-04-01,Jaden Hill,MLB,38,12,23,3,
+2026-04-01,Jamari Baylor,MLB,7,3,4,0,
+2026-04-01,Jazz Chisholm,MLB,39,17,18,4,
+2026-04-01,Jeremiah Estrada,MLB,40,14,21,5,
+2026-04-01,Jordan McCants,MILB,7,2,5,0,
+2026-04-01,Logan Allen,Baseball,39,11,24,4,
+2026-04-01,Marcus Stroman,MLB,40,11,22,7,
+2026-04-01,Mark Vientos,MLB,37,14,18,5,
+2026-04-01,Masyn Winn,MLB,37,12,21,4,
+2026-04-01,Myles Smith,MILB,9,1,8,0,
+2026-04-01,Nick Kahle,MILB,3,2,1,0,
+2026-04-01,Niko Goodrum,MLB,40,13,23,4,
+2026-04-01,Nick Gordon,MLB,39,8,29,2,
+2026-04-01,Robinson Cano,Baseball,39,17,18,4,
+2026-04-01,Termarr Johnson,MILB,17,7,9,1,
+2026-04-01,TJ McCants,MILB,4,1,3,0,
+2026-04-01,Xavier Edwards,MLB,37,10,24,3,
+2026-04-01,Zack Showalter,MILB,2,1,1,0,
+2026-04-01,Aeneas Peebles,NFL Draft Prospect,9,4,4,1,
+2026-04-01,Andrew Thomas,NFL,40,13,19,8,
+2026-04-01,Andrew Voorhees,NFL,10,3,5,2,
+2026-04-01,Azeez Ojulari,NFL,40,11,23,6,
+2026-04-01,Baron Browning,NFL,39,11,27,1,
+2026-04-01,Bradley Chubb,NFL,40,13,22,5,
+2026-04-01,Brandon Coleman,NFL,40,9,23,8,
+2026-04-01,Brandon Jones,NFL,40,11,17,12,
+2026-04-01,Carlos Boogie Basham,NFL,20,3,15,2,
+2026-04-01,Chris Paul,NFL,40,13,21,6,
+2026-04-01,CJ Henderson,NFL,40,4,31,5,
+2026-04-01,Clay Webb,NFL Draft Prospect,9,1,3,5,
+2026-04-01,Devin Duvernay,NFL,40,10,25,5,
+2026-04-01,De'Von Achane,NFL,39,6,30,3,
+2026-04-01,Drake London,NFL,40,11,14,15,
+2026-04-01,Erik Ezukanma,NFL,40,4,28,8,
+2026-04-01,Gabriel Davis,NFL,40,9,27,4,
+2026-04-01,Germaine Pratt,NFL,39,9,26,4,
+2026-04-01,Isaiah Likely,NFL,39,17,15,7,
+2026-04-01,Jaire Alexander,NFL,40,8,24,8,
+2026-04-01,Jakorian Bennett,NFL,40,5,29,6,
+2026-04-01,Jalen McMillan,NFL,40,9,22,9,
+2026-04-01,Jalyn Armour-Davis,NFL,40,7,21,12,
+2026-04-01,Jamaree Salyer,NFL,40,8,21,11,
+2026-04-01,Jamel Dean,NFL,40,15,22,3,
+2026-04-01,Jaylon Jones,NFL,39,5,26,8,
+2026-04-01,Jordyn Brooks,NFL,39,6,28,5,
+2026-04-01,Josaiah Stewart,NFL Draft Prospect,9,6,1,2,
+2026-04-01,Julian Okwara,NFL,39,7,29,3,
+2026-04-01,Kevin Winston Jr,NFL Draft Prospect,10,6,3,1,
+2026-04-01,Kyler Murray,NFL,40,14,23,3,
+2026-04-01,Le'Raven Clark,NFL,40,9,20,11,
+2026-04-01,Lewis Cine,NFL,40,7,22,11,
+2026-04-01,Louis Rees Zammit,NFL,40,9,29,2,
+2026-04-01,Luiji Vilain,NFL,39,7,28,4,
+2026-04-01,Marcus Maye,NFL,40,15,18,7,
+2026-04-01,Micheal Clemons,NFL,40,9,23,8,
+2026-04-01,Michael Pittman Jr,NFL,40,11,25,4,
+2026-04-01,Patrick Paul,NFL,40,12,22,6,
+2026-04-01,Rashod Bateman,NFL,40,10,20,10,
+2026-04-01,Ronnie Stanley,NFL,40,11,18,11,
+2026-04-01,Roschon Johnson,NFL,40,8,21,11,
+2026-04-01,Sam Ehlinger,NFL,40,16,21,3,
+2026-04-01,Savion Williams,NFL Draft Prospect,15,11,3,1,
+2026-04-01,Terence Steele,NFL,40,12,15,13,
+2026-04-01,Trent Taylor,NFL,40,4,28,8,
+2026-04-01,Tyler Higbee,NFL,40,14,20,6,
+2026-04-01,Tyler Lacy,NFL,39,7,26,6,
+2026-04-01,Tyler Shough,NFL Draft Prospect,40,24,12,4,
+2026-04-01,Tyree Wilson,NFL,39,10,27,2,
+2026-04-01,Upton Stout,NFL Draft Prospect,10,4,6,0,
+2026-04-01,Will Campbell,NFL Draft Prospect,40,22,8,10,
+2026-04-01,Za'Darius Smith,NFL,40,11,24,5,
+2026-04-01,Zamir White,NFL,40,10,23,7,
+2026-04-01,Aphelele Fassi,Rugby,40,10,16,14,
+2026-04-01,Ardie Savea,Rugby,40,8,20,12,
+2026-04-01,Cheslin Kolbe,Rugby,40,22,11,7,
+2026-04-01,Ellis Genge,Rugby,40,9,18,13,
+2026-04-01,Jordan Hendrikse,Rugby,40,7,26,7,
+2026-04-01,Luyolo Doyi,Rugby,8,5,3,0,
+2026-04-01,Marcus Smith,Rugby,40,11,22,7,
+2026-04-01,Mamus Rademeyer,Rugby,0,0,0,0,
+2026-04-01,Ollie Lawrence,Rugby,40,9,20,11,
+2026-04-01,Owam Freempong,Rugby,0,0,0,0,
+2026-04-01,Ronald Brown,Rugby,33,11,14,8,
+2026-04-01,Siya Kolisi,Rugby,40,14,20,6,
+2026-04-01,Tendai Mtawarira,Rugby,40,20,15,5,
+2026-04-01,Zukisani Tom,Rugby,4,3,1,0,
+2026-04-01,Adem Bona,NBA,33,10,16,7,
+2026-04-01,Bennie Boatwright,Basketball,40,12,24,4,
+2026-04-01,Buddy Boeheim,NBA,40,7,32,1,
+2026-04-01,Chris Boucher,NBA,40,11,27,2,
+2026-04-01,Dillon Jones,NBA,40,5,33,2,
+2026-04-01,James Young,Basketball,40,6,33,1,
+2026-04-01,Jimmy Boeheim,Basketball,40,20,20,0,
+2026-04-01,Kevin Porter Jr,NBA,39,6,20,13,
+2026-04-01,LaMelo Ball,NBA,36,7,26,3,
+2026-04-01,Quincy Guerrier,NBA,40,7,32,1,
+2026-04-01,Rickea Jackson,WNBA,40,9,10,21,
+2026-04-01,Skylar Diggins-Smith,WNBA,40,10,24,6,
+2026-04-01,Allen Griffin,Coach,33,10,20,3,
+2026-04-01,Dejan Stanković,Coach,40,9,29,2,
+2026-04-01,God Shammgod,Coach,40,21,17,2,
+2026-04-01,Hamlet Tibbs,Coach,10,5,5,0,
+2026-04-01,Hue Jackson,Coach,40,4,18,18,
+2026-04-01,Kliff Kingsbury,Coach,40,8,26,6,
+2026-04-01,Rod Strickland,Coach,40,6,22,12,
+2026-04-01,Adedire Mebude,Soccer,10,0,8,2,
+2026-04-01,Alan Kardec De Souza,Soccer,0,0,0,0,
+2026-04-01,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,
+2026-04-01,Alfie McNally,Soccer,6,1,5,0,
+2026-04-01,Andre Silva,Soccer,40,8,16,16,
+2026-04-01,Andre Clovis Silva Filho,Soccer,0,0,0,0,
+2026-04-01,Andrew brody,Soccer,36,6,29,1,
+2026-04-01,Anthony Fontana,Soccer,31,10,20,1,
+2026-04-01,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,
+2026-04-01,Arthur Augusto De Matos Soares,Soccer,0,0,0,0,
+2026-04-01,Arthur Zanell Koerich,Soccer,0,0,0,0,
+2026-04-01,Axel Uriostegui,Soccer,9,6,3,0,
+2026-04-01,Axel Witsel,Soccer,40,12,23,5,
+2026-04-01,Aziel Jackson,Soccer,17,5,11,1,
+2026-04-01,Billy Gee,Soccer,8,0,8,0,
+2026-04-01,Bradley Ibrahim,Soccer,9,3,5,1,
+2026-04-01,Brooke Norton-Cuffy,Soccer,39,14,23,2,
+2026-04-01,Ciao Leao Do Amaral,Soccer,0,0,0,0,
+2026-04-01,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,
+2026-04-01,Cauly Oliveira Souza,Soccer,3,0,3,0,
+2026-04-01,Charlie Rosenthal,Soccer,9,3,6,0,
+2026-04-01,Chadi Riad,Soccer,40,12,22,6,
+2026-04-01,Chris Richards,Soccer,40,8,20,12,
+2026-04-01,Christian Dimarco,Soccer,9,1,8,0,
+2026-04-01,Conor Lewis,Soccer,2,0,2,0,
+2026-04-01,Dakota Watterson,Soccer,10,3,7,0,
+2026-04-01,Davi Milhomens Waisman,Soccer,0,0,0,0,
+2026-04-01,David Viana De Oliveira,Soccer,1,0,1,0,
+2026-04-01,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,
+2026-04-01,Deji Elerewe,Soccer,5,3,2,0,
+2026-04-01,Diego Esser Pereira,Soccer,1,0,1,0,
+2026-04-01,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,
+2026-04-01,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,
+2026-04-01,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,
+2026-04-01,Emersonn Correia Da Silva,Soccer,2,1,1,0,
+2026-04-01,Endrick Felipe Moreira de Sousa,Soccer,12,4,7,1,
+2026-04-01,Ezra Carrington,Soccer,4,0,4,0,
+2026-04-01,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,
+2026-04-01,Federico Dimarco,Soccer,40,12,22,6,
+2026-04-01,Felipe Felicio Silva Reis,Soccer,0,0,0,0,
+2026-04-01,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,
+2026-04-01,Gabriel Correia Da Silva,Soccer,0,0,0,0,
+2026-04-01,Gabriel Teodoro Martinelli Silva,Soccer,8,3,4,1,
+2026-04-01,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,
+2026-04-01,Gustavo Henrique Correa,Soccer,0,0,0,0,
+2026-04-01,Gustavo Reis De Alcantara,Soccer,2,0,2,0,
+2026-04-01,Grayson Doody,Soccer,15,1,14,0,
+2026-04-01,Henrique De Souza Trevisan,Soccer,0,0,0,0,
+2026-04-01,Igor Toledo E Toledo,Soccer,2,0,2,0,
+2026-04-01,Isaiah Parker,Soccer,14,3,11,0,
+2026-04-01,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,
+2026-04-01,Jack Mcglynn,Soccer,40,6,23,11,
+2026-04-01,Jackson Teixeira Filho,Soccer,0,0,0,0,
+2026-04-01,Jacob Neptune,Soccer,2,0,2,0,
+2026-04-01,Jacob Wright,Soccer,29,8,18,3,
+2026-04-01,Jadan Raymond,Soccer,10,5,5,0,
+2026-04-01,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,
+2026-04-01,Jahmari Clarke,Soccer,7,2,4,1,
+2026-04-01,Jhuan Nunes Coelho,Soccer,0,0,0,0,
+2026-04-01,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,
+2026-04-01,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,
+2026-04-01,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,
+2026-04-01,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,
+2026-04-01,João Victor Vieira Ferreira Sousa,Soccer,1,0,1,0,
+2026-04-01,Joel Gasco,Soccer,0,0,0,0,
+2026-04-01,Jojea Kwizera,Soccer,36,8,26,2,
+2026-04-01,Jordi Saucedo,Soccer,0,0,0,0,
+2026-04-01,Jose Rafael Vivian,Soccer,0,0,0,0,
+2026-04-01,Josh Nichols,Soccer,33,11,20,2,
+2026-04-01,Justen Glad,Soccer,39,26,9,4,
+2026-04-01,Kaiden Wilson,Soccer,9,4,5,0,
+2026-04-01,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,
+2026-04-01,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,
+2026-04-01,Keaton Parks,Soccer,34,5,25,4,
+2026-04-01,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,
+2026-04-01,Kevin de Bruyne,Soccer,40,13,19,8,
+2026-04-01,Kevyn Henrique Monteiro De Souza,Soccer,1,0,1,0,
+2026-04-01,Korede Osundina,Soccer,14,3,10,1,
+2026-04-01,Lazaro Vinicius Marques,Soccer,7,0,7,0,
+2026-04-01,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,
+2026-04-01,Leonardo de Azevedo Silva,Soccer,0,0,0,0,
+2026-04-01,Lewis Orford,Soccer,15,9,5,1,
+2026-04-01,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,
+2026-04-01,Lorran Lucas Pereira De Sousa,Soccer,1,0,1,0,
+2026-04-01,Luan Andrey Da Silva Duarte,Soccer,0,0,0,0,
+2026-04-01,Luca Fletcher,Soccer,5,1,4,0,
+2026-04-01,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,
+2026-04-01,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,
+2026-04-01,Lucas Felipe Calegari,Soccer,0,0,0,0,
+2026-04-01,Lucas Fernandes da Silva,Soccer,0,0,0,0,
+2026-04-01,Lucas Henrique Barbosa,Soccer,7,0,7,0,
+2026-04-01,Lucas Pires Silva,Soccer,2,0,2,0,
+2026-04-01,Lucas Rosa Gazzotto,Soccer,0,0,0,0,
+2026-04-01,Lucas Tolentino Coelho De Lima,Soccer,10,1,8,1,
+2026-04-01,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,
+2026-04-01,Manuel Vila Cabezas,Soccer,0,0,0,0,
+2026-04-01,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,
+2026-04-01,Marcos Antonio Silva Santos,Soccer,0,0,0,0,
+2026-04-01,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,
+2026-04-01,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,
+2026-04-01,Mateus Da Frada Lustosa,Soccer,0,0,0,0,
+2026-04-01,Mateus Dias Lima,Soccer,0,0,0,0,
+2026-04-01,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,
+2026-04-01,Matheus Dalsasso Dias,Soccer,0,0,0,0,
+2026-04-01,Matheus Rossetto,Soccer,31,19,11,1,
+2026-04-01,Matt Miazaga,Soccer,3,0,3,0,
+2026-04-01,Matt Real,Soccer,35,10,19,6,
+2026-04-01,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,
+2026-04-01,Murilo Camargo Dos Santos,Soccer,0,0,0,0,
+2026-04-01,Murilo Cerqueira Paim,Soccer,1,1,0,0,
+2026-04-01,Nathan Ferguson,Soccer,20,5,11,4,
+2026-04-01,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,
+2026-04-01,Nathan Santos de Araújo,Soccer,0,0,0,0,
+2026-04-01,Nkosi Tafari,Soccer,40,11,28,1,
+2026-04-01,Olger Escobar,Soccer,38,5,32,1,
+2026-04-01,Òscar Masqué García,Soccer,1,0,1,0,
+2026-04-01,Oscar Torrellas,Soccer,0,0,0,0,
+2026-04-01,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,
+2026-04-01,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,
+2026-04-01,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,
+2026-04-01,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,
+2026-04-01,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,
+2026-04-01,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,
+2026-04-01,Rafael Barbosa Coutinho,Soccer,2,0,2,0,
+2026-04-01,Renato Marques de Oliveira Junior,Soccer,1,0,1,0,
+2026-04-01,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,
+2026-04-01,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,
+2026-04-01,Ruan Lucas De Assis,Soccer,0,0,0,0,
+2026-04-01,Rubens Antonio Dias,Soccer,0,0,0,0,
+2026-04-01,Ryan Medina Da Silva,Soccer,0,0,0,0,
+2026-04-01,Samuel Alves Barroso,Soccer,0,0,0,0,
+2026-04-01,Samuel Lusale,Soccer,11,7,4,0,
+2026-04-01,Seth Chingwaro,Soccer,9,1,8,0,
+2026-04-01,Theo Adelusi,Soccer,1,0,1,0,
+2026-04-01,Thierry Rohart-Brown,Soccer,9,2,7,0,
+2026-04-01,Tim Parker,Soccer,39,10,28,1,
+2026-04-01,Tucker Lepley,Soccer,40,9,31,0,
+2026-04-01,Tyreece John-Jules,Soccer,20,3,17,0,
+2026-04-01,Victor Hugo Gomes Silva,Soccer,3,1,2,0,
+2026-04-01,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,
+2026-04-01,Vinicius Jose Paixao de Oliveira Junior,Soccer,6,2,2,2,
+2026-04-01,Vonnte Williams,Soccer,2,0,2,0,
+2026-04-01,Vitor Carvalho,Soccer,4,0,3,1,
+2026-04-01,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,
+2026-04-01,Vitor Tormena de Farias,Soccer,0,0,0,0,
+2026-04-01,Weverson Moreira da Costa,Soccer,1,0,1,0,
+2026-04-01,Xavier Amaechi,Soccer,9,1,8,0,
+2026-04-01,Yann Neves Siqueira,Soccer,0,0,0,0,
+2026-04-01,Ykaro Toledo E Toledo,Soccer,0,0,0,0,
+2026-04-01,Zach Marsh,Soccer,9,0,9,0,
+2026-04-01,Adia Victoria,singer,40,6,27,7,
+2026-04-01,Alicia Keys,singer,40,12,27,1,
+2026-04-01,A$AP Ferg,ASAP Ferg,40,5,31,4,
+2026-04-01,A$AP ROCKY,ASAP ROCKY,40,13,21,6,
+2026-04-01,Benny The Butcher,rapper,40,11,25,4,
+2026-04-01,Bohnes,Alexander DeLeon,15,5,10,0,
+2026-04-01,Christina Aguilera,singer,40,10,22,8,
+2026-04-01,Corinne Bailey Rae,singer,40,10,20,10,
+2026-04-01,DJ Khaled,record producer,40,18,17,5,
+2026-04-01,Ezinma,violinist,20,9,10,1,
+2026-04-01,Fat Joe,rapper,40,7,14,19,
+2026-04-01,J Balvin,singer,40,14,23,3,
+2026-04-01,Jadakiss,rapper,40,15,19,6,
+2026-04-01,Jess Glynne,singer,40,13,21,6,
+2026-04-01,Kate Peytavin,singer,3,2,0,1,
+2026-04-01,Lil Uzi Vert,rapper,40,14,16,10,
+2026-04-01,Lous and the Yakuza,singer,30,6,23,1,
+2026-04-01,Megan Thee Stallion,rapper,40,5,21,14,
+2026-04-01,Moneybagg Yo,rapper,40,15,22,3,
+2026-04-01,DJ Mustard,record producer,12,8,3,1,
+2026-04-01,Nipsey Hussle,rapper,39,11,12,16,
+2026-04-01,Rihanna,singer,40,2,8,30,
+2026-04-01,Robin Thicke,singer,40,17,17,6,
+2026-04-01,The LOX,hip hop group,40,17,15,8,
+2026-04-01,Tinashe,singer,40,11,19,10,
+2026-04-01,Yo Gotti,rapper,40,7,15,18,
+2026-04-01,Bodega Flee,DJ,3,0,3,0,
+2026-04-01,DJ Camilo,radio personality,5,1,4,0,
+2026-04-01,Angie Martinez,radio personality,40,8,27,5,
+2026-04-01,Van Jones,media personality,13,4,3,6,
+2026-04-01,Fred Ball,record producer,4,1,2,1,
+2026-04-01,Big Sean,rapper,40,20,14,6,
+2026-04-01,DJ LYAN,music producer,5,1,2,2,
+2026-04-01,Madison Bailey,actress,40,11,25,4,
+2026-04-01,Myke Towers,rapper,40,11,24,5,
+2026-04-01,Desiree Perez,Roc Nation,40,10,19,11,
+2026-04-01,Jay-Z,rapper,40,17,18,5,
+2026-04-02,Andrew Dutkanych,MILB,4,0,4,0,None
+2026-04-02,Antonio Anderson,MILB,4,1,3,0,None
+2026-04-02,Braden Montgomery,MILB,23,6,17,0,None
+2026-04-02,Christian Little,MILB,8,4,3,1,None
+2026-04-02,Christopher Suero,MILB,8,2,6,0,None
+2026-04-02,CJ Abrams,MLB,37,7,26,4,None
+2026-04-02,Dominic Johnson,MILB,0,0,0,0,None
+2026-04-02,Dominic Smith,MLB,37,15,13,9,None
+2026-04-02,Ed Howard,MILB,6,2,3,1,None
+2026-04-02,Gino Groover,MILB,11,1,10,0,None
+2026-04-02,Ian Lewis,MILB,5,1,3,1,None
+2026-04-02,Isaiah Drake,MILB,5,1,4,0,None
+2026-04-02,Isaiah Greene,MILB,3,1,2,0,None
+2026-04-02,Jaden Hill,MLB,38,13,22,3,None
+2026-04-02,Jamari Baylor,MLB,6,2,4,0,None
+2026-04-02,Jazz Chisholm,MLB,39,15,20,4,None
+2026-04-02,Jeremiah Estrada,MLB,40,12,23,5,None
+2026-04-02,Jordan McCants,MILB,7,2,5,0,None
+2026-04-02,Logan Allen,Baseball,40,11,23,6,None
+2026-04-02,Marcus Stroman,MLB,40,11,21,8,None
+2026-04-02,Mark Vientos,MLB,38,14,19,5,None
+2026-04-02,Masyn Winn,MLB,40,14,19,7,None
+2026-04-02,Myles Smith,MILB,6,1,5,0,None
+2026-04-02,Nick Kahle,MILB,3,2,1,0,None
+2026-04-02,Niko Goodrum,MLB,40,14,22,4,None
+2026-04-02,Nick Gordon,MLB,39,6,32,1,None
+2026-04-02,Robinson Cano,Baseball,39,18,17,4,None
+2026-04-02,Termarr Johnson,MILB,17,6,10,1,None
+2026-04-02,TJ McCants,MILB,4,1,3,0,None
+2026-04-02,Xavier Edwards,MLB,38,10,24,4,None
+2026-04-02,Zack Showalter,MILB,2,1,1,0,None
+2026-04-02,Aeneas Peebles,NFL Draft Prospect,9,4,4,1,None
+2026-04-02,Andrew Thomas,NFL,40,13,19,8,None
+2026-04-02,Andrew Voorhees,NFL,10,3,5,2,None
+2026-04-02,Azeez Ojulari,NFL,40,12,22,6,None
+2026-04-02,Baron Browning,NFL,39,11,28,0,None
+2026-04-02,Bradley Chubb,NFL,40,9,26,5,None
+2026-04-02,Brandon Coleman,NFL,40,9,22,9,None
+2026-04-02,Brandon Jones,NFL,40,14,16,10,None
+2026-04-02,Carlos Boogie Basham,NFL,20,3,15,2,None
+2026-04-02,Chris Paul,NFL,40,14,20,6,None
+2026-04-02,CJ Henderson,NFL,40,3,32,5,None
+2026-04-02,Clay Webb,NFL Draft Prospect,9,3,3,3,None
+2026-04-02,Devin Duvernay,NFL,40,11,25,4,None
+2026-04-02,De'Von Achane,NFL,39,5,28,6,None
+2026-04-02,Drake London,NFL,40,9,14,17,None
+2026-04-02,Erik Ezukanma,NFL,40,4,29,7,None
+2026-04-02,Gabriel Davis,NFL,40,9,26,5,None
+2026-04-02,Germaine Pratt,NFL,39,12,24,3,None
+2026-04-02,Isaiah Likely,NFL,39,18,14,7,None
+2026-04-02,Jaire Alexander,NFL,40,7,24,9,None
+2026-04-02,Jakorian Bennett,NFL,40,5,29,6,None
+2026-04-02,Jalen McMillan,NFL,40,9,23,8,None
+2026-04-02,Jalyn Armour-Davis,NFL,40,8,21,11,None
+2026-04-02,Jamaree Salyer,NFL,40,9,20,11,None
+2026-04-02,Jamel Dean,NFL,40,17,20,3,None
+2026-04-02,Jaylon Jones,NFL,39,6,25,8,None
+2026-04-02,Jordyn Brooks,NFL,39,6,28,5,None
+2026-04-02,Josaiah Stewart,NFL Draft Prospect,10,6,3,1,None
+2026-04-02,Julian Okwara,NFL,40,7,30,3,None
+2026-04-02,Kevin Winston Jr,NFL Draft Prospect,10,7,3,0,None
+2026-04-02,Kyler Murray,NFL,40,14,22,4,None
+2026-04-02,Le'Raven Clark,NFL,40,7,22,11,None
+2026-04-02,Lewis Cine,NFL,40,6,23,11,None
+2026-04-02,Louis Rees Zammit,NFL,40,9,26,5,None
+2026-04-02,Luiji Vilain,NFL,40,8,26,6,None
+2026-04-02,Marcus Maye,NFL,40,14,19,7,None
+2026-04-02,Micheal Clemons,NFL,40,10,23,7,None
+2026-04-02,Michael Pittman Jr,NFL,40,11,25,4,None
+2026-04-02,Patrick Paul,NFL,40,11,22,7,None
+2026-04-02,Rashod Bateman,NFL,40,9,21,10,None
+2026-04-02,Ronnie Stanley,NFL,40,12,17,11,None
+2026-04-02,Roschon Johnson,NFL,40,8,21,11,None
+2026-04-02,Sam Ehlinger,NFL,40,15,22,3,None
+2026-04-02,Savion Williams,NFL Draft Prospect,14,10,3,1,None
+2026-04-02,Terence Steele,NFL,40,13,14,13,None
+2026-04-02,Trent Taylor,NFL,40,4,28,8,None
+2026-04-02,Tyler Higbee,NFL,40,15,18,7,None
+2026-04-02,Tyler Lacy,NFL,40,8,27,5,None
+2026-04-02,Tyler Shough,NFL Draft Prospect,40,24,11,5,None
+2026-04-02,Tyree Wilson,NFL,40,10,27,3,None
+2026-04-02,Upton Stout,NFL Draft Prospect,9,3,6,0,None
+2026-04-02,Will Campbell,NFL Draft Prospect,40,23,7,10,None
+2026-04-02,Za'Darius Smith,NFL,40,12,23,5,None
+2026-04-02,Zamir White,NFL,40,9,25,6,None
+2026-04-02,Aphelele Fassi,Rugby,40,9,15,16,None
+2026-04-02,Ardie Savea,Rugby,40,7,19,14,None
+2026-04-02,Cheslin Kolbe,Rugby,40,22,11,7,None
+2026-04-02,Ellis Genge,Rugby,40,10,20,10,None
+2026-04-02,Jordan Hendrikse,Rugby,40,8,25,7,None
+2026-04-02,Luyolo Doyi,Rugby,8,5,3,0,None
+2026-04-02,Marcus Smith,Rugby,40,9,23,8,None
+2026-04-02,Mamus Rademeyer,Rugby,0,0,0,0,None
+2026-04-02,Ollie Lawrence,Rugby,40,9,21,10,None
+2026-04-02,Owam Freempong,Rugby,0,0,0,0,None
+2026-04-02,Ronald Brown,Rugby,31,10,13,8,None
+2026-04-02,Siya Kolisi,Rugby,40,11,20,9,None
+2026-04-02,Tendai Mtawarira,Rugby,40,19,16,5,None
+2026-04-02,Zukisani Tom,Rugby,4,3,1,0,None
+2026-04-02,Adem Bona,NBA,33,8,20,5,None
+2026-04-02,Bennie Boatwright,Basketball,40,12,24,4,None
+2026-04-02,Buddy Boeheim,NBA,40,8,31,1,None
+2026-04-02,Chris Boucher,NBA,40,11,26,3,None
+2026-04-02,Dillon Jones,NBA,40,5,32,3,None
+2026-04-02,James Young,Basketball,40,6,34,0,None
+2026-04-02,Jimmy Boeheim,Basketball,40,18,22,0,None
+2026-04-02,Kevin Porter Jr,NBA,39,6,21,12,None
+2026-04-02,LaMelo Ball,NBA,35,6,23,6,None
+2026-04-02,Quincy Guerrier,NBA,40,7,32,1,None
+2026-04-02,Rickea Jackson,WNBA,40,9,11,20,None
+2026-04-02,Skylar Diggins-Smith,WNBA,40,11,23,6,None
+2026-04-02,Allen Griffin,Coach,34,10,21,3,None
+2026-04-02,Dejan Stanković,Coach,40,10,29,1,None
+2026-04-02,God Shammgod,Coach,40,22,16,2,None
+2026-04-02,Hamlet Tibbs,Coach,10,6,4,0,None
+2026-04-02,Hue Jackson,Coach,40,6,19,15,None
+2026-04-02,Kliff Kingsbury,Coach,40,8,25,7,None
+2026-04-02,Rod Strickland,Coach,40,6,23,11,None
+2026-04-02,Adedire Mebude,Soccer,10,0,8,2,None
+2026-04-02,Alan Kardec De Souza,Soccer,0,0,0,0,None
+2026-04-02,Alexandre Cesar Santos Ribeiro,Soccer,0,0,0,0,None
+2026-04-02,Alfie McNally,Soccer,7,1,6,0,None
+2026-04-02,Andre Silva,Soccer,40,9,15,16,None
+2026-04-02,Andre Clovis Silva Filho,Soccer,0,0,0,0,None
+2026-04-02,Andrew brody,Soccer,37,6,29,2,None
+2026-04-02,Anthony Fontana,Soccer,31,9,20,2,None
+2026-04-02,Anselmo Ramon Alves Herculano,Soccer,0,0,0,0,None
+2026-04-02,Arthur Augusto De Matos Soares,Soccer,0,0,0,0,None
+2026-04-02,Arthur Zanell Koerich,Soccer,0,0,0,0,None
+2026-04-02,Axel Uriostegui,Soccer,9,6,3,0,None
+2026-04-02,Axel Witsel,Soccer,40,10,25,5,None
+2026-04-02,Aziel Jackson,Soccer,21,6,14,1,None
+2026-04-02,Billy Gee,Soccer,8,0,8,0,None
+2026-04-02,Bradley Ibrahim,Soccer,9,3,5,1,None
+2026-04-02,Brooke Norton-Cuffy,Soccer,35,14,19,2,None
+2026-04-02,Ciao Leao Do Amaral,Soccer,0,0,0,0,None
+2026-04-02,Carlos Henrique da Silva Ventura,Soccer,0,0,0,0,None
+2026-04-02,Cauly Oliveira Souza,Soccer,3,0,3,0,None
+2026-04-02,Charlie Rosenthal,Soccer,9,2,6,1,None
+2026-04-02,Chadi Riad,Soccer,40,11,23,6,None
+2026-04-02,Chris Richards,Soccer,39,11,21,7,None
+2026-04-02,Christian Dimarco,Soccer,9,1,8,0,None
+2026-04-02,Conor Lewis,Soccer,2,0,2,0,None
+2026-04-02,Dakota Watterson,Soccer,10,3,7,0,None
+2026-04-02,Davi Milhomens Waisman,Soccer,0,0,0,0,None
+2026-04-02,David Viana De Oliveira,Soccer,1,0,1,0,None
+2026-04-02,Dayvisson Andre Lima Dos Santos,Soccer,0,0,0,0,None
+2026-04-02,Deji Elerewe,Soccer,5,3,2,0,None
+2026-04-02,Diego Esser Pereira,Soccer,1,0,1,0,None
+2026-04-02,Diogo Leonardo Raposo De Araujo,Soccer,0,0,0,0,None
+2026-04-02,Douglas dos Santos Justino de Melo,Soccer,0,0,0,0,None
+2026-04-02,Eduardo De Oliveira Carvalho,Soccer,0,0,0,0,None
+2026-04-02,Emersonn Correia Da Silva,Soccer,2,1,1,0,None
+2026-04-02,Endrick Felipe Moreira de Sousa,Soccer,12,3,8,1,None
+2026-04-02,Ezra Carrington,Soccer,5,0,5,0,None
+2026-04-02,Fabricio Brunco Soares de Faria,Soccer,0,0,0,0,None
+2026-04-02,Federico Dimarco,Soccer,40,13,21,6,None
+2026-04-02,Felipe Felicio Silva Reis,Soccer,0,0,0,0,None
+2026-04-02,Felipe Vieira Dos Santos Martins,Soccer,0,0,0,0,None
+2026-04-02,Gabriel Correia Da Silva,Soccer,0,0,0,0,None
+2026-04-02,Gabriel Teodoro Martinelli Silva,Soccer,9,4,4,1,None
+2026-04-02,Gabryelo Bica Zaffari D Agustini,Soccer,0,0,0,0,None
+2026-04-02,Gustavo Henrique Correa,Soccer,0,0,0,0,None
+2026-04-02,Gustavo Reis De Alcantara,Soccer,2,0,2,0,None
+2026-04-02,Grayson Doody,Soccer,14,1,13,0,None
+2026-04-02,Henrique De Souza Trevisan,Soccer,0,0,0,0,None
+2026-04-02,Igor Toledo E Toledo,Soccer,2,0,2,0,None
+2026-04-02,Isaiah Parker,Soccer,14,3,11,0,None
+2026-04-02,Italo Lucas do Nascimento Pereira,Soccer,0,0,0,0,None
+2026-04-02,Jack Mcglynn,Soccer,40,6,23,11,None
+2026-04-02,Jackson Teixeira Filho,Soccer,1,0,1,0,None
+2026-04-02,Jacob Neptune,Soccer,2,0,2,0,None
+2026-04-02,Jacob Wright,Soccer,30,7,19,4,None
+2026-04-02,Jadan Raymond,Soccer,10,4,6,0,None
+2026-04-02,Jadsom Meemyas De Oliveira Da Silva,Soccer,0,0,0,0,None
+2026-04-02,Jahmari Clarke,Soccer,8,2,5,1,None
+2026-04-02,Jhuan Nunes Coelho,Soccer,0,0,0,0,None
+2026-04-02,Joao Henrique Medes Da Silva,Soccer,0,0,0,0,None
+2026-04-02,Joao Douglas De Sousa Silva,Soccer,0,0,0,0,None
+2026-04-02,Joao Moreira Sanmartin Souza,Soccer,0,0,0,0,None
+2026-04-02,Joao Pedro de Moura Siembarski,Soccer,0,0,0,0,None
+2026-04-02,João Victor Vieira Ferreira Sousa,Soccer,1,0,1,0,None
+2026-04-02,Joel Gasco,Soccer,0,0,0,0,None
+2026-04-02,Jojea Kwizera,Soccer,35,7,25,3,None
+2026-04-02,Jordi Saucedo,Soccer,0,0,0,0,None
+2026-04-02,Jose Rafael Vivian,Soccer,0,0,0,0,None
+2026-04-02,Josh Nichols,Soccer,32,11,20,1,None
+2026-04-02,Justen Glad,Soccer,39,27,11,1,None
+2026-04-02,Kaiden Wilson,Soccer,9,4,5,0,None
+2026-04-02,Kauan Do Nascimento Firmo,Soccer,0,0,0,0,None
+2026-04-02,Kayke Ferrari Guimaraes,Soccer,0,0,0,0,None
+2026-04-02,Keaton Parks,Soccer,36,5,27,4,None
+2026-04-02,Keven Vinicius Duarte Silva,Soccer,0,0,0,0,None
+2026-04-02,Kevin de Bruyne,Soccer,40,12,20,8,None
+2026-04-02,Kevyn Henrique Monteiro De Souza,Soccer,1,0,1,0,None
+2026-04-02,Korede Osundina,Soccer,14,3,10,1,None
+2026-04-02,Lazaro Vinicius Marques,Soccer,7,0,7,0,None
+2026-04-02,Leonardo Bonatini Lohner Maia,Soccer,0,0,0,0,None
+2026-04-02,Leonardo de Azevedo Silva,Soccer,0,0,0,0,None
+2026-04-02,Lewis Orford,Soccer,13,8,4,1,None
+2026-04-02,Lincoln Henrique-Oliveira dos Santos,Soccer,0,0,0,0,None
+2026-04-02,Lorran Lucas Pereira De Sousa,Soccer,0,0,0,0,None
+2026-04-02,Luan Andrey Da Silva Duarte,Soccer,0,0,0,0,None
+2026-04-02,Luca Fletcher,Soccer,6,1,5,0,None
+2026-04-02,Lucas Alexandre Galdino de Azevedo,Soccer,0,0,0,0,None
+2026-04-02,Lucas Evangelista Santana De Oliveira,Soccer,0,0,0,0,None
+2026-04-02,Lucas Felipe Calegari,Soccer,0,0,0,0,None
+2026-04-02,Lucas Fernandes da Silva,Soccer,0,0,0,0,None
+2026-04-02,Lucas Henrique Barbosa,Soccer,5,0,5,0,None
+2026-04-02,Lucas Pires Silva,Soccer,2,0,2,0,None
+2026-04-02,Lucas Rosa Gazzotto,Soccer,0,0,0,0,None
+2026-04-02,Lucas Tolentino Coelho De Lima,Soccer,10,1,8,1,None
+2026-04-02,Luis Felipe Silva Dos Anjos,Soccer,0,0,0,0,None
+2026-04-02,Manuel Vila Cabezas,Soccer,0,0,0,0,None
+2026-04-02,Marcio Vitor Barbosa Da Silva,Soccer,0,0,0,0,None
+2026-04-02,Marcos Antonio Silva Santos,Soccer,0,0,0,0,None
+2026-04-02,Marcos Gabriel do Nascimento,Soccer,0,0,0,0,None
+2026-04-02,Marcus Vinicius Caetano Loureiro,Soccer,0,0,0,0,None
+2026-04-02,Mateus Da Frada Lustosa,Soccer,0,0,0,0,None
+2026-04-02,Mateus Dias Lima,Soccer,0,0,0,0,None
+2026-04-02,Mateus Macena De Almeida Santos,Soccer,0,0,0,0,None
+2026-04-02,Matheus Dalsasso Dias,Soccer,0,0,0,0,None
+2026-04-02,Matheus Rossetto,Soccer,29,18,11,0,None
+2026-04-02,Matt Miazaga,Soccer,3,0,3,0,None
+2026-04-02,Matt Real,Soccer,35,9,20,6,None
+2026-04-02,Maycon Vinicius De Lima Galho,Soccer,0,0,0,0,None
+2026-04-02,Murilo Camargo Dos Santos,Soccer,0,0,0,0,None
+2026-04-02,Murilo Cerqueira Paim,Soccer,1,1,0,0,None
+2026-04-02,Nathan Ferguson,Soccer,20,5,11,4,None
+2026-04-02,Nathan Pinheiro Dantas Benvindo Rosal,Soccer,0,0,0,0,None
+2026-04-02,Nathan Santos de Araújo,Soccer,0,0,0,0,None
+2026-04-02,Nkosi Tafari,Soccer,40,10,28,2,None
+2026-04-02,Olger Escobar,Soccer,38,5,32,1,None
+2026-04-02,Òscar Masqué García,Soccer,1,0,1,0,None
+2026-04-02,Oscar Torrellas,Soccer,0,0,0,0,None
+2026-04-02,Otavio Goncalves De Oliveira,Soccer,0,0,0,0,None
+2026-04-02,Paulo Otavio Rosa Silva,Soccer,0,0,0,0,None
+2026-04-02,Pedro Henrique Da Silva Barbosa,Soccer,0,0,0,0,None
+2026-04-02,Pedro Henrique De Oliveira Correia,Soccer,0,0,0,0,None
+2026-04-02,Pedro Henrique Pereora da Silva,Soccer,0,0,0,0,None
+2026-04-02,Pedro Julio De Andrade Santos,Soccer,0,0,0,0,None
+2026-04-02,Rafael Barbosa Coutinho,Soccer,2,0,2,0,None
+2026-04-02,Renato Marques de Oliveira Junior,Soccer,1,0,1,0,None
+2026-04-02,Ricardo Cerqueira Da Silva,Soccer,0,0,0,0,None
+2026-04-02,Robert De Souza Ferreira Dias,Soccer,0,0,0,0,None
+2026-04-02,Ruan Lucas De Assis,Soccer,0,0,0,0,None
+2026-04-02,Rubens Antonio Dias,Soccer,0,0,0,0,None
+2026-04-02,Ryan Medina Da Silva,Soccer,0,0,0,0,None
+2026-04-02,Samuel Alves Barroso,Soccer,0,0,0,0,None
+2026-04-02,Samuel Lusale,Soccer,12,8,4,0,None
+2026-04-02,Seth Chingwaro,Soccer,9,1,8,0,None
+2026-04-02,Theo Adelusi,Soccer,1,0,1,0,None
+2026-04-02,Thierry Rohart-Brown,Soccer,8,0,8,0,None
+2026-04-02,Tim Parker,Soccer,40,9,30,1,None
+2026-04-02,Tucker Lepley,Soccer,40,9,30,1,None
+2026-04-02,Tyreece John-Jules,Soccer,18,3,15,0,None
+2026-04-02,Victor Hugo Gomes Silva,Soccer,3,1,2,0,None
+2026-04-02,Victor Marcelo Mendes de Santana,Soccer,0,0,0,0,None
+2026-04-02,Vinicius Jose Paixao de Oliveira Junior,Soccer,6,1,1,4,None
+2026-04-02,Vonnte Williams,Soccer,2,0,2,0,None
+2026-04-02,Vitor Carvalho,Soccer,6,0,5,1,None
+2026-04-02,Vitor Dos Santos Figueiredo,Soccer,0,0,0,0,None
+2026-04-02,Vitor Tormena de Farias,Soccer,0,0,0,0,None
+2026-04-02,Weverson Moreira da Costa,Soccer,1,0,1,0,None
+2026-04-02,Xavier Amaechi,Soccer,9,1,8,0,None
+2026-04-02,Yann Neves Siqueira,Soccer,0,0,0,0,None
+2026-04-02,Ykaro Toledo E Toledo,Soccer,0,0,0,0,None
+2026-04-02,Zach Marsh,Soccer,9,0,9,0,None
+2026-04-02,Adia Victoria,singer,32,5,23,4,None
+2026-04-02,Alicia Keys,singer,40,11,28,1,None
+2026-04-02,A$AP Ferg,ASAP Ferg,40,5,30,5,None
+2026-04-02,A$AP ROCKY,ASAP ROCKY,40,12,21,7,None
+2026-04-02,Benny The Butcher,rapper,40,9,26,5,None
+2026-04-02,Bohnes,Alexander DeLeon,15,5,10,0,None
+2026-04-02,Christina Aguilera,singer,40,13,22,5,None
+2026-04-02,Corinne Bailey Rae,singer,40,9,22,9,None
+2026-04-02,DJ Khaled,record producer,40,17,18,5,None
+2026-04-02,Ezinma,violinist,21,10,10,1,None
+2026-04-02,Fat Joe,rapper,40,5,16,19,None
+2026-04-02,J Balvin,singer,40,14,23,3,None
+2026-04-02,Jadakiss,rapper,40,15,20,5,None
+2026-04-02,Jess Glynne,singer,40,13,22,5,None
+2026-04-02,Kate Peytavin,singer,3,2,0,1,None
+2026-04-02,Lil Uzi Vert,rapper,40,19,12,9,None
+2026-04-02,Lous and the Yakuza,singer,30,6,23,1,None
+2026-04-02,Megan Thee Stallion,rapper,40,0,28,12,None
+2026-04-02,Moneybagg Yo,rapper,40,14,22,4,None
+2026-04-02,DJ Mustard,record producer,12,9,2,1,None
+2026-04-02,Nipsey Hussle,rapper,39,12,13,14,None
+2026-04-02,Rihanna,singer,40,2,7,31,None
+2026-04-02,Robin Thicke,singer,40,16,19,5,None
+2026-04-02,The LOX,hip hop group,40,18,14,8,None
+2026-04-02,Tinashe,singer,40,11,21,8,None
+2026-04-02,Yo Gotti,rapper,40,8,13,19,None
+2026-04-02,Bodega Flee,DJ,4,0,4,0,None
+2026-04-02,DJ Camilo,radio personality,5,1,4,0,None
+2026-04-02,Angie Martinez,radio personality,40,7,28,5,None
+2026-04-02,Van Jones,media personality,14,4,4,6,None
+2026-04-02,Fred Ball,record producer,4,1,2,1,None
+2026-04-02,Big Sean,rapper,40,21,15,4,None
+2026-04-02,DJ LYAN,music producer,5,1,2,2,None
+2026-04-02,Madison Bailey,actress,40,13,24,3,None
+2026-04-02,Myke Towers,rapper,40,8,25,7,None
+2026-04-02,Desiree Perez,Roc Nation,40,10,18,12,None
+2026-04-02,Jay-Z,rapper,40,14,19,7,None
